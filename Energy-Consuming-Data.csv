@@ -1,0 +1,1001 @@
+﻿timestamp,energy_consumption,city,building_id,floor,power_factor,voltage,current,power_consumption,energy_cost,energy_source,energy_provider,energy_usage_category,energy_savings
+02/02/2024,221,Kolkata,1,8,0.15,233.4,9.5,966.58,151.25,nuclear,Babbleopia,residential,40.8
+03/11/2024,74.7,Delhi,2,3,0.38,135.2,5.9,285.59,52.42,wind mill,Oloo,industrial,35.6
+12/07/2023,887.23,Mumbai,3,6,0.48,236.1,6.49,115.27,560.53,natural gas,Snaptags,residential,66.3
+15/07/2023,880.16,Kolkata,4,9,0.83,108.4,7.31,736.23,845.74,solar panels,Wordpedia,transportation,95
+08/10/2023,836.7,Chennai,5,6,0.04,108.5,4.55,952.45,42.02,natural gas,Kare,commercial,68.3
+31/05/2024,886.34,Chennai,6,7,0.49,116.7,2.17,624.87,696.36,solar panels,Mita,industrial,26.6
+01/11/2024,793.57,Mumbai,7,5,0.43,207.1,4.42,314.92,301.46,solar panels,Feedfish,transportation,55.3
+27/07/2024,685.71,Chennai,8,1,0,183.2,3.59,901.27,214.49,solar panels,Twiyo,residential,87.5
+13/12/2024,652.64,Mumbai,9,3,0.72,124.2,9.19,531.52,769.36,natural gas,Flashspan,transportation,82.3
+13/11/2023,793.9,Delhi,10,4,0.89,206.4,4.53,120.05,568.15,solar panels,InnoZ,transportation,99.3
+04/09/2023,201.01,Chennai,11,7,0.76,148.2,2.59,120.33,927.51,solar panels,Twimbo,industrial,86.9
+24/01/2024,450.72,Kolkata,12,2,0.07,150.1,9.9,907.55,513.76,nuclear,Pixope,industrial,83.5
+26/02/2025,918.66,Chennai,13,7,0.8,183,5.31,578.85,106.47,nuclear,Voomm,governmental,58.9
+04/04/2024,860.61,Delhi,14,4,0.91,170.7,8.7,333.73,235.36,biomass,Voonte,residential,57
+19/12/2023,856.53,Chennai,15,8,0.47,171.1,2.48,67.17,830.53,wind mill,Voonix,commercial,92.8
+19/02/2025,389.81,Delhi,16,10,0.84,109.2,2.28,299.85,436.45,solar panels,Eazzy,residential,4.5
+22/02/2023,322.06,Chennai,17,10,0.76,119.5,5.79,940.93,61.85,solar panels,Vitz,residential,4.2
+02/02/2024,357.52,Kolkata,18,2,0.83,227.2,3.2,984.65,264.06,wind mill,Ainyx,industrial,32.2
+09/11/2023,23.07,Kolkata,19,9,0.6,102.8,3.9,231.11,898.8,nuclear,Browsedrive,transportation,20.9
+08/08/2023,41,Chennai,20,4,0.58,237.8,3.48,656.2,813.08,biomass,Quinu,residential,44.2
+12/12/2022,26.49,Bangalore,21,1,0.94,227.3,7.23,931.28,942.24,nuclear,Twitternation,industrial,96.3
+04/12/2024,268.04,Bangalore,22,2,0.52,229,3.36,560.33,924.56,wind mill,Twitterbeat,governmental,86.8
+04/12/2022,825.26,Delhi,23,2,0.98,229.4,3.28,748.55,716.73,wind mill,Einti,commercial,96
+23/12/2022,139.75,Chennai,24,9,0.34,135.8,3.87,412.61,602.55,natural gas,Skinte,residential,66
+19/10/2024,233.26,Kolkata,25,4,0.09,106.4,3.57,57.34,93.59,nuclear,Voonte,transportation,88.1
+03/11/2024,540.02,Kolkata,26,3,0.67,195.4,4.99,213.3,691.05,natural gas,Brainverse,transportation,68.8
+27/03/2025,957.1,Bangalore,27,6,0.4,149.6,7.02,289.16,391.92,nuclear,Flipbug,commercial,32.1
+07/02/2024,982.98,Kolkata,28,8,0.05,165.3,4.97,839.94,205.06,solar panels,Edgepulse,residential,99.8
+26/06/2023,186.33,Mumbai,29,9,0.15,130,0.14,528.63,287.01,natural gas,Katz,residential,81.2
+10/03/2023,560.36,Mumbai,30,5,0.13,239.1,7.36,155.2,511.26,solar panels,Yombu,governmental,95.9
+06/10/2024,286.64,Kolkata,31,2,1,182.4,6.57,624.61,351.92,natural gas,Quire,transportation,93.9
+28/02/2025,673.49,Chennai,32,1,0.28,197,7.26,42.25,199.86,nuclear,Wikido,industrial,84.7
+04/03/2023,223.51,Delhi,33,5,0.71,175,8.69,975.92,580.64,wind mill,Kazu,industrial,5.6
+29/10/2023,52.78,Delhi,34,5,0.98,187.4,8.84,544.48,148.17,wind mill,Edgewire,transportation,7.6
+02/02/2025,787.82,Delhi,35,1,0.83,199.2,6.1,880.64,266.39,biomass,Dazzlesphere,transportation,86.5
+17/03/2024,319.05,Delhi,36,4,0.85,128.9,9.89,823.1,985.32,solar panels,Feedbug,commercial,95
+11/05/2023,674.43,Kolkata,37,2,0.13,185.4,6.56,426.86,273.5,nuclear,Gabvine,residential,99.6
+29/03/2024,476.19,Kolkata,38,5,0.54,116.9,4.38,632.16,559.64,nuclear,Voonix,transportation,37.7
+04/02/2024,273.85,Mumbai,39,10,0.56,157.6,9.76,973.12,344.13,wind mill,Brainverse,industrial,68.8
+24/05/2024,553.92,Kolkata,40,9,0.05,144.9,1.57,72.78,395.1,biomass,Kwinu,governmental,22.2
+23/08/2023,359.01,Delhi,41,1,0.91,142.6,1.84,912.95,607.47,solar panels,Quinu,industrial,48.3
+18/01/2025,980.92,Chennai,42,7,0.22,176.3,0.31,930.55,507.07,nuclear,Voonyx,commercial,32.5
+01/07/2024,413.05,Chennai,43,8,0.25,144.2,6.92,58.53,828.81,nuclear,Jaxnation,residential,10.9
+03/06/2023,363.07,Kolkata,44,3,0.17,191.1,2.73,570.57,438.32,natural gas,Aivee,industrial,26.8
+17/10/2023,210.68,Delhi,45,10,0.73,234.4,8.69,318.39,31.38,natural gas,Jaxworks,commercial,95.9
+13/02/2023,87.56,Chennai,46,7,0.98,216.5,2.19,363.43,379.17,nuclear,Brainverse,residential,15.2
+21/06/2023,666.84,Kolkata,47,6,0.66,139.7,7.56,394.95,965.05,natural gas,Blogtags,governmental,64.9
+10/04/2025,682.52,Bangalore,48,6,0.82,180.3,5.63,926.87,961.13,wind mill,Mudo,residential,86
+15/03/2025,19.38,Chennai,49,9,0.49,149,9.69,674.11,145.38,biomass,Bubbletube,commercial,57.7
+13/01/2025,971.91,Chennai,50,9,0.98,168.4,4.99,400.04,532.71,nuclear,Muxo,residential,83.9
+29/04/2024,351.03,Delhi,51,6,0.43,232.6,1.02,565.56,870.41,biomass,Mita,commercial,91.8
+29/09/2023,49.55,Mumbai,52,9,0.28,205.9,6.13,403.69,998.88,solar panels,Buzzster,industrial,78.3
+25/05/2023,325.83,Mumbai,53,10,0.42,228,2.07,848.81,349.02,natural gas,Buzzbean,transportation,24.7
+26/06/2024,955.47,Delhi,54,4,0.62,215.5,6.39,438.81,548.65,nuclear,Flashdog,industrial,78.1
+08/02/2023,548.36,Kolkata,55,10,0.98,135,8.6,334.84,256.7,solar panels,Zoomlounge,governmental,93.3
+01/02/2024,792.95,Delhi,56,10,0.39,200.1,4.71,13.52,367.31,solar panels,Kare,industrial,10.4
+02/02/2024,968.62,Mumbai,57,5,0.36,164.5,6.53,90.77,191.24,nuclear,Kwinu,commercial,27
+26/10/2023,263.25,Delhi,58,8,0.05,118.6,9.79,523.17,176.68,wind mill,Yodoo,residential,21
+30/06/2023,983.92,Kolkata,59,7,0.31,111.5,2.23,487.47,509.43,solar panels,Mita,industrial,9.9
+03/05/2024,861.98,Delhi,60,5,0.96,202.9,1.78,844.82,298.81,wind mill,Kwimbee,transportation,29.5
+24/01/2023,533.79,Delhi,61,1,0.3,175.3,9.3,218.72,958.55,nuclear,Yamia,residential,26.9
+02/03/2025,510.99,Kolkata,62,10,0.19,130,4.38,895.41,33.08,nuclear,Twitterworks,governmental,89.1
+06/01/2023,132.41,Chennai,63,9,0.88,193,5.98,354.32,810.06,solar panels,Jayo,transportation,17.3
+08/07/2023,39.34,Bangalore,64,8,0.74,200,6.89,505.13,535.88,natural gas,Twitterlist,industrial,14.9
+16/09/2024,473.96,Bangalore,65,5,0.95,192.7,3.02,319.64,701.09,nuclear,Jetwire,governmental,62.1
+07/04/2024,762,Mumbai,66,4,0.72,215.6,7.6,89.04,627.96,nuclear,Lajo,residential,1.8
+20/09/2024,330.99,Mumbai,67,6,0.48,114.7,1.51,10.81,866.1,wind mill,Jabberbean,governmental,29.4
+13/02/2024,512.69,Mumbai,68,10,0.88,232.7,7.82,241.97,862.99,wind mill,Gevee,industrial,30.4
+26/07/2024,784.99,Chennai,69,3,0.21,189,9.49,271.25,259.77,solar panels,InnoZ,residential,67.2
+16/05/2024,165.14,Bangalore,70,4,0.04,183.6,5.67,90.69,241.96,natural gas,Blogtag,transportation,31.1
+20/06/2024,896.42,Chennai,71,4,0.97,144.2,2.28,708.8,734.55,wind mill,Topicstorm,commercial,35.7
+01/04/2024,908.27,Bangalore,72,8,0.42,182.7,3.08,223.14,766.25,biomass,Abata,commercial,52.9
+23/01/2023,243.92,Chennai,73,6,0.11,153.9,7.5,604.79,336.93,nuclear,Photolist,industrial,13.8
+10/08/2024,203.7,Bangalore,74,8,0.59,106,5.43,294.88,277.65,biomass,Gigaclub,transportation,77.9
+13/02/2024,587.74,Chennai,75,5,0.33,219.4,9.6,275.21,292.63,wind mill,Skipstorm,governmental,74.1
+16/09/2023,725.74,Bangalore,76,9,0.66,153.3,4.81,820.19,975.08,wind mill,Leexo,residential,31.4
+10/08/2024,43.95,Mumbai,77,6,0.8,142.1,4.13,713.86,735.8,wind mill,Eare,governmental,61.6
+15/06/2023,388,Kolkata,78,4,0.86,130,8.45,193.76,665.89,nuclear,Skiba,transportation,29
+05/08/2023,660.99,Bangalore,79,2,0.22,160.1,5.16,29.34,456.11,solar panels,Tazz,transportation,99.3
+29/03/2023,458.48,Chennai,80,5,0.24,155.7,5.25,659.9,750.2,biomass,Zoomdog,transportation,79.1
+19/10/2023,694.39,Chennai,81,5,0.16,130.2,7.13,771.58,105.73,nuclear,Zoonoodle,transportation,40.6
+27/01/2025,933.12,Bangalore,82,1,0.8,102.1,0.31,477.3,807.04,biomass,Skyvu,commercial,29.5
+23/02/2025,597.84,Chennai,83,2,0.42,172.8,9.22,257.61,805.69,solar panels,Zazio,industrial,64.7
+03/12/2024,858.14,Kolkata,84,5,0.56,166.7,2.08,873.6,808.95,nuclear,Gabspot,residential,84.5
+15/06/2023,118.92,Bangalore,85,5,0.36,137.2,1.22,169.61,677.58,nuclear,Wordify,transportation,65.9
+16/07/2024,799.19,Kolkata,86,10,0.99,204.4,4.6,398.42,446.3,solar panels,Brainverse,governmental,96.2
+13/10/2024,810.93,Mumbai,87,8,0.63,169.9,9.49,634.36,664.43,solar panels,Meejo,commercial,38.5
+19/05/2023,816.8,Bangalore,88,1,0.35,156.1,9.94,310.37,135.57,wind mill,Dynabox,transportation,7.2
+18/02/2023,220.01,Mumbai,89,3,0.98,230.6,2.74,448.63,609.81,solar panels,Midel,residential,50.6
+18/01/2025,24.36,Bangalore,90,8,0.9,116.2,5.03,234.38,873.86,biomass,Kwilith,industrial,20.7
+06/03/2023,632.01,Chennai,91,4,0.56,155,9.09,166.52,783.3,natural gas,Wordify,residential,61.4
+22/09/2023,411.72,Mumbai,92,7,0.23,133.6,9.04,115.41,661.41,biomass,Plajo,governmental,66.6
+12/09/2023,664.34,Bangalore,93,7,0.96,212.4,2.38,46.06,608.14,natural gas,LiveZ,industrial,53.1
+23/07/2024,247.95,Chennai,94,7,0.3,239.1,8.83,888.86,373.31,wind mill,Trupe,commercial,54.3
+14/07/2023,257.61,Delhi,95,3,0.05,217.6,6.06,436.39,559.93,wind mill,Realmix,transportation,18.9
+08/02/2024,581.99,Kolkata,96,4,0.68,126.7,5.08,837.84,387.78,solar panels,Kwilith,transportation,92.9
+13/02/2023,584.92,Mumbai,97,2,0.32,217.3,2.8,976.78,837.55,nuclear,Kayveo,industrial,28.2
+15/08/2023,833.92,Bangalore,98,8,0.04,239,1.67,353.02,905.99,wind mill,Edgewire,commercial,75.3
+16/10/2023,109.82,Mumbai,99,3,0.03,155.9,4.43,75.69,34.54,nuclear,Eare,residential,76.4
+01/08/2023,116.79,Bangalore,100,8,0.61,210.4,6.53,272.04,87.83,solar panels,Ailane,industrial,84.8
+29/11/2023,974.4,Bangalore,101,3,0.35,237.3,6.45,557.28,61.45,solar panels,Kwideo,governmental,65.9
+05/04/2024,455.52,Bangalore,102,10,0.93,109.4,0.12,617.35,937.98,wind mill,Leexo,residential,67.6
+06/11/2024,551.74,Mumbai,103,3,0.76,161.3,2.46,728.5,604.69,natural gas,Eire,governmental,19.3
+13/01/2023,828.29,Bangalore,104,8,0.75,125.9,9.26,855.51,323.72,natural gas,Babbleopia,residential,36.5
+12/01/2025,934.25,Mumbai,105,4,0.15,127.6,9.3,228.97,303.84,nuclear,Fliptune,commercial,75
+23/11/2022,779.34,Bangalore,106,6,0.94,222.4,3.75,410.17,380.25,wind mill,Youfeed,commercial,21.7
+26/12/2024,693.24,Bangalore,107,8,0.09,115.4,3.62,39.13,882.58,wind mill,Quinu,residential,52.9
+11/06/2023,462.52,Delhi,108,6,0.91,111.2,1.74,511.29,605.93,nuclear,Mudo,residential,1.7
+30/11/2022,325.36,Chennai,109,5,0.81,134,1.18,766.15,318.73,wind mill,Aivee,governmental,47.3
+30/06/2024,328.83,Chennai,110,7,0.83,211.9,1.03,263.46,910.49,natural gas,Agimba,transportation,80.5
+12/03/2024,599.56,Chennai,111,8,0.07,124.7,5.79,477.3,763.33,natural gas,Skyba,residential,67.7
+18/02/2023,117.79,Kolkata,112,6,0.71,135.4,9.63,320.96,413.24,biomass,Photospace,transportation,57.2
+20/07/2024,636.63,Bangalore,113,8,0.17,133.5,8.76,702.86,71.82,wind mill,Devpulse,industrial,83.8
+16/10/2023,158.2,Delhi,114,9,0.53,162.2,6.99,570.34,469.73,biomass,Innotype,industrial,13.9
+08/09/2023,241.51,Kolkata,115,9,0.45,170.3,8.48,798.59,975.49,solar panels,Quinu,transportation,91.7
+17/12/2023,638.77,Chennai,116,6,0.74,216.9,4.87,976.66,988.78,natural gas,LiveZ,transportation,49
+11/09/2023,530.51,Chennai,117,8,0.91,115.9,2.23,790.36,520.63,wind mill,Realblab,transportation,83.6
+09/01/2025,632.18,Bangalore,118,8,0.65,104.1,1.61,620.72,796.42,wind mill,Camido,transportation,75.3
+18/07/2024,274.41,Delhi,119,6,0.91,218.8,4.21,401.76,353,solar panels,Wikizz,residential,92.7
+05/10/2023,537.13,Delhi,120,4,0.94,169.9,4.64,513.47,665.81,solar panels,Edgeclub,residential,76.9
+14/01/2024,619.4,Delhi,121,5,0.68,233,6.58,169.65,716.91,nuclear,Thoughtstorm,industrial,73.6
+06/10/2024,857.8,Delhi,122,2,0.69,188.8,9.39,410.48,479.03,wind mill,Trudoo,transportation,37.4
+15/09/2023,327.68,Kolkata,123,5,0.61,102.3,3.25,925.64,560.86,solar panels,Trudeo,residential,65.4
+15/11/2023,258.39,Kolkata,124,8,0.3,192,4.07,674.86,293.61,nuclear,Lazz,commercial,82.9
+15/03/2023,321.71,Bangalore,125,3,0.36,193.6,5.94,959.29,239.31,natural gas,Devpulse,transportation,51.2
+17/09/2023,614.06,Chennai,126,7,0.42,231.8,0.12,39.33,857.21,solar panels,Izio,industrial,52.1
+21/11/2023,819.08,Chennai,127,2,0.04,123.5,6.46,305.47,200.83,natural gas,Skippad,residential,4.3
+01/07/2024,743.64,Delhi,128,6,0.03,175.5,4.06,382.12,551.61,wind mill,Skyndu,commercial,30.3
+11/04/2024,658.3,Bangalore,129,8,0.22,206.9,7.83,31.71,481.68,natural gas,Katz,transportation,47.7
+28/04/2023,994.22,Mumbai,130,5,0.09,129.5,7.91,159.32,552.77,solar panels,Yodo,transportation,56.3
+12/08/2023,712.19,Delhi,131,6,0.01,203.9,0.59,343.94,726.97,nuclear,Ntag,residential,60.7
+11/03/2023,309.21,Mumbai,132,5,0.93,230.9,4.36,999.04,471.33,solar panels,Topicstorm,governmental,7.5
+07/01/2024,459.93,Kolkata,133,3,0.39,189.9,0.53,903.18,703.46,biomass,Zoombox,governmental,88.3
+16/09/2024,357.52,Bangalore,134,7,0.52,104.1,3.46,166.4,722.81,biomass,Minyx,commercial,58.1
+11/02/2023,374.06,Bangalore,135,3,0.46,193.7,6.29,71.06,823.65,wind mill,Voonder,commercial,46.7
+02/07/2024,58.93,Chennai,136,8,0.12,219.5,3.89,96.67,313.01,biomass,Rhyloo,residential,83.4
+26/08/2023,742.54,Delhi,137,1,0.85,159.6,3.19,248.45,18.54,natural gas,Jazzy,governmental,77.4
+20/07/2024,456.34,Kolkata,138,8,0.39,201,0.13,123.65,315.37,nuclear,Tanoodle,governmental,19.9
+26/12/2022,609.28,Delhi,139,1,0.4,135.6,7.18,74.13,219.51,solar panels,Gigazoom,governmental,23.3
+02/04/2025,68,Mumbai,140,6,0.14,107.3,1.06,746.42,575.27,wind mill,Dabjam,industrial,70.9
+06/11/2024,41.26,Mumbai,141,2,0.7,182.5,2.02,796.54,607.91,solar panels,Gabcube,governmental,59
+11/06/2023,969.95,Delhi,142,8,0.13,128.1,2.4,523.28,197.07,natural gas,Dabtype,industrial,41.6
+24/03/2025,679.91,Kolkata,143,5,0.3,197.2,8.72,158.75,43.35,natural gas,Lajo,transportation,1.2
+23/07/2024,134.21,Kolkata,144,7,0.74,103.3,7.85,473.41,656.61,nuclear,Devpoint,industrial,90.6
+02/10/2023,845.89,Kolkata,145,2,0.65,141.7,1.87,26.97,197.68,nuclear,Quimm,commercial,54.5
+27/05/2023,738.83,Bangalore,146,9,0.37,173.2,9.8,933.67,739.86,biomass,Fiveclub,commercial,80.1
+13/09/2024,934.2,Chennai,147,1,0.95,165.3,0.55,505.07,134.57,biomass,Livetube,governmental,94.1
+09/03/2025,152.83,Chennai,148,8,0.43,159.5,8.37,854.34,617.55,wind mill,Cogilith,commercial,51
+22/04/2024,117.99,Kolkata,149,8,0.04,170,7.02,78.45,813.92,solar panels,Tambee,residential,7.4
+17/12/2023,977.48,Kolkata,150,7,0.95,195.8,5.82,752.97,266.73,natural gas,Kayveo,governmental,62.5
+25/03/2024,433.36,Bangalore,151,2,0.47,141.8,8.53,117.16,716.49,biomass,Flashspan,governmental,18.1
+08/06/2024,83.96,Mumbai,152,4,0.47,103.1,4.5,531.65,543.17,natural gas,Eamia,industrial,45.2
+21/05/2024,751.12,Mumbai,153,9,0.94,220.8,9,894.05,156.16,wind mill,Feedfish,commercial,2.7
+14/09/2023,770.45,Delhi,154,2,0.14,229.8,1.38,537.9,915.47,wind mill,Skiptube,commercial,38.4
+15/09/2024,879.43,Delhi,155,4,0.45,198.3,6.71,550.27,547.13,biomass,Eayo,transportation,28.3
+24/04/2025,197.18,Mumbai,156,1,0.91,133.9,5.22,321.28,834.81,nuclear,Dabvine,industrial,5.6
+17/01/2024,941.62,Kolkata,157,5,0.57,197.1,3.63,425.5,553.3,natural gas,Gabtune,transportation,73.9
+27/01/2024,589.6,Bangalore,158,2,0.74,173.9,5.66,467.46,95.02,biomass,Myworks,industrial,93.8
+17/12/2024,179.81,Chennai,159,10,0.68,127.3,8.8,157.42,857.33,natural gas,Skyble,commercial,73.3
+08/07/2023,120.48,Bangalore,160,4,0.53,216.8,3.54,710.67,579.04,biomass,Gigashots,transportation,49.5
+26/06/2023,717,Bangalore,161,10,0.53,137,1.77,955.07,342.2,natural gas,JumpXS,governmental,82.3
+17/10/2023,177.77,Bangalore,162,5,0.55,177.3,4.07,668.73,2.26,solar panels,Jabbersphere,residential,90.3
+23/04/2025,229.61,Kolkata,163,3,0.45,135.9,1.86,317.76,845.29,biomass,Meejo,residential,84
+18/05/2024,469.61,Mumbai,164,1,0.94,176.2,0.43,524.64,75.88,natural gas,Browsezoom,industrial,77.7
+24/07/2023,950.55,Bangalore,165,7,0.43,131.8,5.35,3.23,119.27,solar panels,Shuffletag,governmental,24.9
+23/02/2024,500.27,Bangalore,166,4,0.89,162.5,0.49,441.84,280.95,biomass,Aimbo,transportation,56.1
+04/08/2023,227.79,Delhi,167,1,0.04,129.4,4.05,579.28,431.91,biomass,Quinu,transportation,99.4
+21/03/2023,207.18,Kolkata,168,4,0.66,225.6,9.75,164.75,905.92,nuclear,Plambee,governmental,53.9
+26/08/2023,758.87,Delhi,169,8,0.08,227.1,8.88,769.5,375.63,natural gas,Tekfly,commercial,69.4
+26/12/2023,521.92,Bangalore,170,5,0.25,209.4,9.6,137.93,125.59,nuclear,Roodel,residential,7.5
+26/09/2024,403.23,Bangalore,171,6,0.27,153.4,5.79,379.64,106.37,solar panels,Ntags,industrial,7.5
+24/07/2024,856.4,Mumbai,172,10,0.8,178.5,3.14,73.48,212.17,wind mill,Jaloo,industrial,6.5
+14/01/2024,159.25,Bangalore,173,1,0.52,150.1,6.01,963.78,576.33,nuclear,Flashset,governmental,22.4
+23/03/2023,506.4,Mumbai,174,3,0,178,6.36,748.56,313.64,natural gas,Buzzshare,industrial,61.4
+29/11/2022,93.13,Chennai,175,10,0.28,223.7,0.6,124.67,303.04,wind mill,Zoomcast,residential,9.5
+15/01/2023,465.47,Bangalore,176,1,0.24,197.3,5.73,326.31,236.54,nuclear,Realblab,residential,53.7
+09/05/2023,623.17,Delhi,177,6,0.94,114.6,9.44,217.93,201.43,natural gas,Meembee,commercial,54.5
+25/11/2022,660.96,Kolkata,178,6,0.24,155.4,2.65,923.27,414.23,wind mill,Flashpoint,governmental,73.7
+08/03/2024,229.49,Chennai,179,10,0.27,133.3,1.33,838.24,363.54,solar panels,Mymm,industrial,11.4
+16/08/2024,794.61,Bangalore,180,2,0.27,132.7,1,263.18,671.84,nuclear,Eadel,governmental,4.3
+05/09/2023,56.54,Kolkata,181,8,0.78,153.6,6.66,795.77,175.68,wind mill,Twinder,governmental,0.5
+15/04/2025,474.92,Delhi,182,5,0.78,110.6,4.48,462.89,44.01,wind mill,Zoomcast,commercial,6.4
+25/11/2023,510.58,Kolkata,183,10,0.08,185.7,8.98,641.42,402.72,biomass,Flashspan,industrial,8
+16/12/2023,333.62,Chennai,184,9,0.32,199.2,8.63,914.71,602.92,natural gas,Zoovu,transportation,44.2
+10/02/2023,381.98,Mumbai,185,4,0.29,154,3.85,362.17,983.77,biomass,Ailane,industrial,53.4
+16/01/2025,944.76,Mumbai,186,7,0.18,196.1,2.48,900.54,86.78,wind mill,Rooxo,residential,2.7
+13/03/2024,425.58,Mumbai,187,10,0.47,186.1,7.46,640.73,160.89,nuclear,Lazzy,residential,64.1
+27/04/2023,790.08,Delhi,188,6,0.08,197.9,3.92,341.03,696.94,wind mill,Feedmix,transportation,13.8
+06/05/2024,673.34,Mumbai,189,6,0.54,154.3,1.43,673.15,686.34,wind mill,Skyble,industrial,31.4
+12/02/2024,118.08,Mumbai,190,2,0.55,209.6,3.99,309.81,685.48,nuclear,Demizz,commercial,83.2
+17/06/2024,639.64,Mumbai,191,4,0.64,189.5,0.82,13.38,264.74,solar panels,Pixope,transportation,65.9
+30/07/2024,409.09,Bangalore,192,8,0.32,230.3,3.97,642.2,164.74,wind mill,Linkbuzz,governmental,64.7
+06/03/2025,290.37,Delhi,193,1,0.99,160.2,3.05,359.74,904.58,biomass,Tagfeed,transportation,41.4
+06/06/2023,409.22,Kolkata,194,6,0.82,103.6,9.49,921.11,699.51,natural gas,Eire,transportation,85.8
+27/09/2023,856.62,Bangalore,195,9,0.63,173.4,8.85,127.03,627.24,biomass,Shuffledrive,residential,90.5
+14/12/2022,4.83,Chennai,196,10,0.43,145.1,3.91,401.78,119.76,wind mill,Gabtype,commercial,56.8
+02/09/2023,164.15,Kolkata,197,2,0.21,207.1,3.95,630.87,790.43,natural gas,Rooxo,residential,84.7
+06/12/2023,665.77,Delhi,198,9,0.74,133.3,1,131.99,395.37,nuclear,Kazio,governmental,42.9
+02/12/2024,638.3,Mumbai,199,5,0.06,145.2,3.12,233.17,967.83,natural gas,Quimm,commercial,97.6
+17/03/2025,461.26,Kolkata,200,3,0.84,168.5,8.76,806.52,845.39,wind mill,Skinder,industrial,73.4
+24/09/2023,342.41,Kolkata,201,2,0.13,141.9,9.85,779.36,314.19,biomass,Photospace,industrial,70.8
+09/04/2023,690.47,Kolkata,202,9,0.79,136.4,3.32,477.54,201.32,nuclear,Photobean,governmental,64.9
+27/09/2023,262.6,Delhi,203,10,0.89,184.5,4.74,180.52,432.3,nuclear,Voonte,commercial,7.2
+29/09/2024,645.29,Kolkata,204,7,0.81,132.1,4.24,792.43,190.69,natural gas,Meevee,industrial,16.4
+30/03/2024,931.66,Mumbai,205,5,0.35,152.6,4.99,27.13,10.04,biomass,Nlounge,governmental,98.3
+01/03/2024,668.64,Kolkata,206,5,0.35,121.8,0.07,191.97,417.18,wind mill,Devshare,governmental,78.4
+13/07/2024,744.89,Kolkata,207,6,0.39,151.5,0.09,903.96,883.37,wind mill,Jabberbean,industrial,85.5
+25/09/2023,607.81,Chennai,208,8,0.61,178.6,5.04,239.36,872.74,natural gas,Muxo,residential,30.6
+26/08/2024,705.57,Mumbai,209,8,0.45,145.9,4.79,856.07,449.23,solar panels,Gevee,governmental,13.2
+05/12/2022,381.48,Mumbai,210,5,0.39,193.8,4.72,995.37,109.88,nuclear,Dynazzy,transportation,3.1
+22/02/2024,231.4,Delhi,211,3,0.98,125.3,7.12,428.94,5.64,biomass,Aibox,governmental,9.5
+03/03/2025,192.23,Bangalore,212,8,0.48,145.3,1.6,27.87,527.73,biomass,Yabox,industrial,36.8
+29/01/2023,301.55,Chennai,213,3,0.06,217.2,9.86,626.34,508.72,biomass,Livefish,industrial,8.9
+12/06/2024,559.85,Chennai,214,2,0.51,211.7,4.94,849.95,918.98,wind mill,Agimba,governmental,63.6
+19/06/2023,896.58,Delhi,215,9,0.65,118.4,8.95,251.6,697.83,wind mill,Zoombeat,commercial,70.7
+07/04/2024,322.48,Kolkata,216,8,0.24,212.2,1.04,18.71,714,natural gas,Yodel,governmental,20.5
+06/11/2024,45.88,Chennai,217,10,0.71,220.5,0.95,856.11,133.23,nuclear,Vimbo,commercial,11.8
+13/09/2024,291.69,Chennai,218,8,0.95,227.1,7.57,11.28,569.78,nuclear,Linkbuzz,transportation,67.7
+18/06/2024,418.63,Bangalore,219,7,0.41,117.1,9.65,719.67,511.41,biomass,Centidel,industrial,35.3
+21/04/2024,985.24,Delhi,220,6,0.97,191.9,5.41,859.89,43.14,wind mill,Linklinks,commercial,59.8
+07/01/2025,931.47,Bangalore,221,4,0.28,236.4,4.23,397.8,934.66,biomass,Shuffledrive,industrial,20.2
+05/05/2023,855.21,Mumbai,222,9,0.1,100.1,9.7,460.96,263.51,natural gas,Rooxo,industrial,42.8
+16/03/2023,739.33,Mumbai,223,10,0.22,131,6.92,776.61,894.29,nuclear,Flipstorm,industrial,67.8
+05/10/2023,354.29,Delhi,224,2,0.75,228.8,6.25,766.59,93.48,nuclear,Omba,commercial,47.1
+18/03/2024,769.89,Kolkata,225,9,0.04,170.2,4.86,185.72,230.33,solar panels,Quaxo,transportation,82.7
+09/09/2024,789.84,Kolkata,226,1,0.21,202.9,8.23,996.06,841.43,nuclear,Jabberstorm,commercial,87.7
+15/07/2023,934.14,Delhi,227,9,0.72,213.7,1.22,71.36,227.53,solar panels,Edgeify,transportation,85.1
+03/12/2024,869.25,Mumbai,228,6,0.75,210.4,3.47,160.88,211.25,nuclear,Demivee,industrial,54.4
+11/01/2023,720.28,Chennai,229,7,0.87,112.8,6.1,473.42,937.42,biomass,Oyoba,transportation,99.5
+04/02/2024,97.01,Bangalore,230,10,0.11,132.9,0.21,65.18,685.17,biomass,Aimbu,transportation,25.7
+29/09/2024,306.95,Bangalore,231,8,0.3,232.6,4.57,970.94,742.95,natural gas,Dynazzy,transportation,62.4
+18/04/2025,10.8,Kolkata,232,3,0.58,128.7,0.2,173.39,958.72,wind mill,Yambee,commercial,5
+26/12/2024,121.99,Kolkata,233,7,0.72,182.1,1.14,95.77,952.2,biomass,Wordpedia,residential,17.1
+19/12/2023,813.74,Delhi,234,2,0.81,186.2,7.08,688.59,752.55,wind mill,Oozz,industrial,53.2
+04/08/2023,131.21,Kolkata,235,10,0.91,168.4,8.38,873.78,304.96,solar panels,Oyoloo,transportation,31.2
+20/02/2025,682.65,Mumbai,236,5,0.56,174.3,4.38,966.14,581.49,solar panels,Zooveo,governmental,69
+11/02/2025,927.1,Mumbai,237,6,0.36,190.9,5.9,531.74,773.58,solar panels,Jabbersphere,residential,90.6
+15/04/2023,287.4,Chennai,238,7,0.91,216.5,5.8,320.97,428.6,nuclear,Yozio,transportation,76.2
+24/11/2022,242.69,Chennai,239,2,0.09,119.7,1.09,954.36,769.16,solar panels,Eire,commercial,44.2
+29/12/2023,813.85,Mumbai,240,3,0.78,219,0.66,173.72,67.75,solar panels,Brainbox,transportation,84.9
+08/05/2024,37.61,Kolkata,241,7,0.99,222.3,2.19,183.27,720.33,natural gas,Youtags,industrial,88.1
+18/11/2024,732.28,Chennai,242,1,0.53,180.4,5.66,44.72,265.87,biomass,Bubbletube,governmental,71.9
+20/01/2024,204.39,Kolkata,243,3,0.55,156.8,7.84,688.09,776.17,solar panels,Dabfeed,governmental,41
+18/10/2024,395.51,Bangalore,244,9,0.29,128,1.15,721.25,36.53,wind mill,Podcat,governmental,67.2
+05/04/2023,987.66,Chennai,245,5,0.19,124.8,9.35,653.74,881.92,biomass,Oodoo,residential,58.5
+28/10/2024,42.46,Kolkata,246,1,0.4,145.9,3.32,654.62,352.38,biomass,Jabbersphere,commercial,15.1
+31/03/2023,400.36,Delhi,247,6,0.03,169.6,0.18,276.37,61.42,natural gas,Agimba,commercial,12.4
+07/09/2024,409.71,Mumbai,248,10,0.91,125.9,8.6,21.88,949.01,solar panels,Twitterbeat,industrial,24.7
+12/07/2024,136.34,Mumbai,249,7,0.13,235.7,9.69,302.67,663.56,biomass,Buzzbean,residential,62.6
+28/12/2023,806.86,Kolkata,250,4,0.46,209.3,7.46,267.57,647.36,nuclear,Devpoint,residential,30.2
+25/11/2022,52.51,Mumbai,251,3,0.92,209.9,5.1,677.36,623.57,nuclear,Yombu,commercial,80.1
+06/01/2024,208.88,Mumbai,252,3,0.73,163,4.8,961.61,713.06,solar panels,Realcube,governmental,78.6
+07/03/2025,622.23,Delhi,253,3,0.37,104.7,4.09,755,299.39,nuclear,Oyoloo,commercial,24.5
+22/03/2024,269.8,Delhi,254,3,0.84,172.9,9.89,319.84,935.91,natural gas,Centizu,industrial,23.9
+14/11/2022,885.34,Delhi,255,5,0.38,188.6,7.68,954.05,384.43,wind mill,Skyble,commercial,59.4
+30/05/2024,714.91,Delhi,256,9,0.36,213.1,3.74,685.78,352.98,natural gas,Npath,residential,32.9
+11/02/2025,101.64,Kolkata,257,3,0.89,131.3,3.4,394.85,611.65,nuclear,Mydeo,commercial,32
+01/05/2023,519.55,Kolkata,258,8,0.81,185.5,5.04,4.7,297.83,wind mill,Rhyzio,transportation,90.2
+13/11/2022,169.04,Chennai,259,2,0.02,145.5,4.73,584.66,30.16,biomass,Devshare,commercial,83.4
+02/12/2022,652.52,Bangalore,260,1,0.43,184.6,1.81,626.17,402.98,wind mill,Yabox,commercial,3.7
+09/06/2024,765.69,Delhi,261,10,0.84,229.7,1.3,648.89,494.5,wind mill,Twimm,transportation,61.4
+13/07/2024,892.83,Delhi,262,5,0.22,135.3,5.47,323.63,627.52,natural gas,Browseblab,industrial,27.4
+05/10/2023,966.29,Chennai,263,4,0.46,207.1,6.92,828.16,329.79,biomass,Aibox,commercial,16.2
+26/10/2023,864.68,Bangalore,264,1,0.93,227.8,4.92,821.16,758.51,natural gas,Meetz,governmental,34.5
+21/04/2023,676.6,Mumbai,265,1,0.42,121.1,2.08,802.39,187.66,nuclear,Tagopia,transportation,100
+01/04/2025,828.89,Kolkata,266,5,0.09,113.8,0.33,131.01,491.27,biomass,Brightbean,residential,61.2
+11/12/2024,559.72,Mumbai,267,9,0.59,235.7,9.91,826.23,293.66,wind mill,Mydeo,residential,66.4
+10/03/2025,312.82,Bangalore,268,8,0.15,162.9,9.95,480.79,556.57,natural gas,Mudo,industrial,6.8
+02/01/2024,244.89,Mumbai,269,8,0.26,209.1,9.72,170.4,541.03,wind mill,Dynabox,residential,13.9
+26/04/2024,427.14,Chennai,270,6,0.3,138.8,7.59,561.93,309.55,wind mill,Thoughtbridge,commercial,81.3
+26/03/2024,26.77,Mumbai,271,5,0.4,188.9,5.39,478.26,331.83,natural gas,Bubbletube,residential,57.1
+17/04/2024,436.96,Delhi,272,5,0.15,201.2,0.87,339.21,236.35,nuclear,Twinder,commercial,48.4
+03/05/2024,719.76,Chennai,273,2,0.89,174.1,6.06,83.35,917.77,wind mill,Buzzster,industrial,4.9
+21/05/2023,152.4,Delhi,274,8,0.29,216.8,7.91,785.55,976.19,solar panels,Mudo,governmental,97.1
+02/03/2025,830.12,Bangalore,275,2,0.95,134.3,4.6,456.52,536.64,natural gas,Linklinks,industrial,79.9
+07/06/2024,46.78,Chennai,276,2,0.61,222.5,2.54,716.13,414.81,biomass,Zoombeat,transportation,59.8
+02/10/2024,996.95,Kolkata,277,10,0.92,170.7,4.17,615.96,625.52,biomass,Quimm,transportation,20.6
+18/02/2023,54.45,Kolkata,278,4,0.66,120.9,3.45,432.81,720.42,wind mill,Feedfire,commercial,52.8
+11/11/2024,575.06,Kolkata,279,2,0.7,128.2,5.78,402.59,811,biomass,InnoZ,commercial,48.3
+06/03/2025,205.46,Chennai,280,9,0.02,145.8,4.45,83.8,282.61,biomass,Lajo,governmental,97.7
+16/10/2023,255.82,Kolkata,281,8,0.1,188.1,5.92,652.9,176.21,nuclear,Jetwire,governmental,89.1
+27/03/2023,788.69,Delhi,282,6,0.91,227.6,5.96,921.1,900.16,biomass,Devbug,transportation,82.8
+20/10/2023,989.91,Kolkata,283,7,0.99,104.4,4.36,340.81,347.42,wind mill,Trupe,governmental,67.1
+13/02/2023,889.22,Chennai,284,5,0.04,140.8,4.35,815.9,952.63,solar panels,Flashspan,residential,35.8
+09/05/2024,922.11,Chennai,285,6,0.87,167,6.25,758.23,548.72,solar panels,Trilia,residential,6.4
+13/02/2025,714.34,Chennai,286,8,0.56,138,5.91,758.12,853.46,natural gas,Flipstorm,transportation,85.8
+17/12/2024,978.39,Mumbai,287,5,0.79,171.2,3.77,101.26,692.61,nuclear,Meemm,commercial,10.5
+02/03/2023,712.06,Bangalore,288,10,0.05,199.3,7.18,919.43,937.09,wind mill,Lazz,transportation,94.5
+21/04/2025,206.95,Mumbai,289,8,0.23,113,6.94,866.01,291.34,nuclear,Skiptube,transportation,39.4
+24/05/2023,369.55,Mumbai,290,8,0.42,209.7,0.14,393.6,589.2,solar panels,Browsetype,commercial,40.5
+01/07/2023,409.35,Kolkata,291,1,0,205.8,1.53,821.04,403.47,nuclear,Mydeo,industrial,6.9
+16/03/2023,962.04,Mumbai,292,9,0.46,221,1.46,497.17,250.28,nuclear,Ooba,residential,54.1
+07/09/2024,948.65,Delhi,293,6,0.98,237.8,6.54,323.84,589.83,biomass,Demivee,governmental,86.4
+10/02/2025,9.82,Delhi,294,8,0.73,124.8,7.07,972.41,809.41,natural gas,Dabtype,commercial,97.1
+19/06/2024,277.76,Bangalore,295,8,0.12,149.1,0.16,588.35,700.67,biomass,Snaptags,governmental,81.6
+21/03/2025,29.74,Chennai,296,9,0.24,203,4.79,962.83,403.91,solar panels,Quinu,governmental,61.5
+07/03/2024,505.28,Mumbai,297,3,0.52,157.2,2.02,735.42,396.25,natural gas,Yata,industrial,29.3
+30/09/2023,63.72,Chennai,298,10,0.08,132.1,5.39,220.53,848.99,natural gas,Oyope,transportation,90.9
+25/01/2025,746.48,Bangalore,299,8,0.08,181.3,9.41,306,693.11,natural gas,Wordtune,residential,82.1
+23/01/2023,58.77,Chennai,300,6,0.42,193.7,5.07,854.42,604.92,solar panels,Demizz,commercial,73.5
+29/10/2024,803.12,Chennai,301,9,0.15,156,4.71,796.16,819.45,wind mill,Innotype,industrial,4.8
+03/03/2024,236.94,Delhi,302,3,0.78,128.9,4.39,111.25,408.52,natural gas,Ooba,transportation,2.3
+14/02/2025,656.29,Bangalore,303,3,0.53,171.5,9.21,42.97,485.95,nuclear,Yozio,industrial,88.2
+19/07/2024,647.3,Chennai,304,3,0.94,188,4.68,748.03,675.98,biomass,Lazz,commercial,94.8
+31/12/2023,535.52,Mumbai,305,8,0.03,126.6,0.28,564.9,195.04,nuclear,Cogidoo,transportation,3.5
+13/05/2024,948.61,Kolkata,306,7,0.92,137.4,8.76,144.12,209.25,biomass,Demizz,residential,85.7
+06/12/2022,91.24,Delhi,307,2,0.17,169.9,9.23,274.98,532.03,solar panels,Realbridge,residential,34.2
+11/03/2025,646.77,Bangalore,308,1,0.91,209.4,4.12,402.81,956.4,solar panels,Dazzlesphere,transportation,27.4
+14/12/2023,336.2,Delhi,309,8,0.4,193.9,6.08,26.01,839.22,solar panels,Voolia,governmental,84.2
+28/03/2023,894.73,Kolkata,310,9,0.3,214.6,5.29,155.56,882.97,wind mill,Thoughtstorm,residential,69.1
+15/04/2023,175.56,Chennai,311,1,0.69,219,7.27,772.86,116.46,natural gas,Browsezoom,governmental,51.4
+02/11/2023,67.22,Kolkata,312,10,0.99,112.1,2.63,10.61,404.59,natural gas,Thoughtworks,industrial,12.4
+05/01/2024,241.69,Mumbai,313,3,0.84,168.4,9.89,231.92,985.91,biomass,Zoonder,governmental,42.5
+13/10/2023,303.94,Kolkata,314,9,0.27,162.7,3.11,406.14,436.49,wind mill,Snaptags,transportation,17.2
+02/12/2024,972.82,Delhi,315,7,0.78,171.6,2.81,687.81,781.24,nuclear,Yodo,transportation,12.1
+07/08/2024,950.86,Mumbai,316,9,0.09,195.1,2.91,663.74,907.72,natural gas,Eare,industrial,31.1
+03/02/2023,621.61,Bangalore,317,2,0.7,234.2,6.59,250.79,484.42,natural gas,Gabtune,transportation,40.6
+29/03/2025,32.99,Bangalore,318,3,0.02,233.7,2.41,981.58,72.6,wind mill,Camido,transportation,25.7
+23/01/2025,879.19,Mumbai,319,3,0.48,167.8,3.67,639.1,387.87,wind mill,Jaloo,residential,23.9
+06/02/2024,92.99,Delhi,320,4,0.07,185.4,1.73,507.45,279.69,natural gas,Plajo,residential,98.6
+07/09/2023,27.39,Bangalore,321,9,0.46,191.2,0.21,94.07,188.36,nuclear,BlogXS,industrial,92.3
+26/02/2024,695.26,Chennai,322,10,0.27,133,9.49,305.88,400.15,biomass,Skibox,industrial,75.5
+18/01/2024,520.99,Delhi,323,3,0.03,202.3,5.54,364.22,484.07,biomass,Zoonder,industrial,0.7
+22/03/2024,337.9,Delhi,324,7,0.57,152.1,0.63,569.22,517.73,solar panels,Yambee,governmental,87.8
+17/04/2025,63.32,Mumbai,325,3,0.12,182.2,5.01,994,824.11,wind mill,Shufflester,industrial,13.6
+01/12/2024,204.5,Delhi,326,4,0.08,134.2,9.04,499.92,454.84,biomass,Leexo,governmental,94.5
+04/01/2024,922.45,Mumbai,327,2,0.48,233.9,1.24,799.63,204.5,nuclear,Meezzy,residential,54
+20/09/2023,223.71,Delhi,328,1,0.29,150.3,3.45,193.53,722,wind mill,Innojam,governmental,71.6
+16/02/2025,511.36,Mumbai,329,1,0.89,218.9,2.5,488.36,814.24,solar panels,Innotype,industrial,9.8
+15/01/2023,79.17,Chennai,330,4,0.48,154.1,0.99,679.99,141.07,wind mill,Youfeed,transportation,73.3
+17/09/2023,279.74,Kolkata,331,4,0.55,174.5,5.14,451.06,93.36,wind mill,Flashset,governmental,77.8
+05/09/2024,770.14,Delhi,332,3,0.99,200.1,1.61,330.83,178.35,wind mill,Vipe,transportation,82
+18/12/2022,82.64,Kolkata,333,9,0.85,219.5,8.03,679.11,213.98,nuclear,Kayveo,governmental,78.8
+30/06/2023,911.9,Mumbai,334,2,0.97,208.9,8.95,986.65,564,solar panels,Meevee,commercial,92.8
+12/01/2024,553.66,Delhi,335,5,0.19,192,6.77,473.56,766.04,solar panels,Eare,commercial,1.8
+13/12/2022,202.23,Bangalore,336,7,0.11,137,7.96,962.75,784.77,wind mill,Skiptube,commercial,67.5
+25/09/2023,797.97,Delhi,337,1,0.77,122.4,7.63,382.4,210.02,solar panels,Rhybox,commercial,10
+16/11/2024,326.69,Kolkata,338,5,0.08,235.1,9.19,118.5,587.1,nuclear,Devpulse,residential,24.2
+11/09/2024,265.03,Chennai,339,4,0.98,208.2,7.07,494.05,208.69,wind mill,Aivee,commercial,6.5
+14/03/2024,400,Mumbai,340,7,0.69,124.7,1.39,342.36,349.46,nuclear,Jaxworks,commercial,79.9
+10/01/2023,513.55,Bangalore,341,6,0.22,158.7,5.89,389.5,894.36,nuclear,Wikizz,industrial,95.6
+18/08/2024,599.04,Kolkata,342,3,0.59,117.1,8.89,189.54,824.63,solar panels,Gigazoom,governmental,62
+04/08/2023,396.25,Chennai,343,6,0.37,145.9,5.36,40.71,762.81,wind mill,Feedfire,residential,80.9
+21/01/2025,774.08,Kolkata,344,9,0.18,142.5,1.52,100.93,271.38,natural gas,Jamia,commercial,51.4
+03/02/2025,209.45,Chennai,345,7,0.58,179.3,7.2,171.01,40.22,solar panels,Centidel,industrial,4.5
+05/04/2023,298.37,Mumbai,346,5,0.44,201.5,8.24,73.73,917.83,natural gas,Zazio,transportation,16.6
+19/08/2024,238.79,Delhi,347,4,0.84,139.7,7.54,681.2,442.04,solar panels,Ooba,commercial,23.5
+24/05/2023,690.88,Delhi,348,9,0.94,147.4,6.15,211.55,667.4,nuclear,Babblestorm,residential,87.7
+21/09/2024,789.75,Chennai,349,10,0.65,226.9,7.03,980.78,209.77,solar panels,Cogilith,transportation,49.1
+26/01/2023,80.77,Chennai,350,10,0.36,176,6.55,229.19,109.32,biomass,Linklinks,industrial,98
+24/08/2023,753.23,Bangalore,351,7,0.72,163.2,4.52,942.21,35.94,solar panels,Quatz,commercial,68.8
+13/05/2024,150.41,Bangalore,352,3,0.41,208.5,2.27,184.47,472.5,natural gas,Youbridge,commercial,94.1
+06/12/2024,747.37,Mumbai,353,5,0.57,171.9,1.26,91.58,121.43,natural gas,Topicstorm,residential,38.4
+30/11/2024,658.74,Delhi,354,7,0.76,122,7.71,166.64,483.86,wind mill,Fivebridge,transportation,84.9
+10/01/2024,337.87,Chennai,355,1,0.95,200.6,8.22,318.82,495.78,solar panels,Riffwire,industrial,23
+22/12/2023,536.67,Mumbai,356,3,0.22,125.4,7.1,393.04,888.28,biomass,DabZ,commercial,7.9
+03/03/2023,327.92,Chennai,357,4,0.95,168.8,3.43,316.94,863.12,solar panels,Thoughtstorm,industrial,77
+01/11/2024,881.82,Delhi,358,2,0.42,226.7,6.91,796.03,901.06,solar panels,Devbug,commercial,16.9
+28/02/2025,221.73,Mumbai,359,5,0.75,172,3.98,539.59,413.5,nuclear,Demizz,governmental,9.5
+25/11/2023,197.29,Mumbai,360,8,0.19,173.2,8.74,664.78,319.63,nuclear,Skipfire,governmental,87.7
+30/05/2023,204.84,Mumbai,361,4,0.88,108.6,8.16,833.55,730.21,solar panels,Jabbersphere,industrial,97.3
+16/09/2023,98.04,Chennai,362,9,0.65,193.3,1.71,818.25,809.41,wind mill,Oodoo,governmental,34.1
+29/08/2024,434.61,Chennai,363,7,0.19,105.8,2.16,289.99,263.02,solar panels,Blognation,industrial,82.2
+08/12/2024,802.47,Kolkata,364,2,0.66,230.1,7.27,957.15,384.82,natural gas,Trunyx,industrial,82.6
+02/11/2023,639.45,Kolkata,365,9,0.22,163.6,3.93,48.26,528.35,natural gas,Mudo,residential,10.5
+27/02/2025,538.22,Mumbai,366,7,0.14,157.1,7.53,452.93,428.33,solar panels,Trilith,residential,4.2
+28/09/2024,282.33,Mumbai,367,6,0.93,198,9.55,181.01,634.26,natural gas,Yodoo,governmental,38.8
+27/09/2024,859.03,Bangalore,368,6,0.27,152.8,4.84,841.55,545.35,biomass,Vidoo,industrial,18.5
+03/03/2024,469.38,Delhi,369,2,0.84,215.1,5.63,802.89,844.91,solar panels,Yacero,industrial,30
+19/10/2024,196.32,Mumbai,370,10,0.36,116.6,6.57,891.81,408.52,wind mill,Roomm,industrial,10.1
+03/05/2023,404.37,Mumbai,371,2,0.03,218.9,4.31,78.92,329.89,nuclear,Bubblebox,transportation,48.7
+10/10/2024,573.66,Chennai,372,7,0.09,170.6,4.56,884.03,952.27,solar panels,Twitterbeat,industrial,18.7
+09/09/2023,944.19,Mumbai,373,10,0.69,165.1,3.3,795.37,683.23,biomass,Yozio,governmental,47.1
+13/12/2024,170.59,Bangalore,374,3,0.25,199.1,7.55,565.73,32.65,solar panels,Eabox,transportation,82.2
+21/07/2023,208.24,Chennai,375,4,0.12,194.4,0.15,274.58,669.68,solar panels,Eazzy,industrial,10.5
+13/09/2023,30.19,Mumbai,376,6,0.9,194.1,0.99,425.97,110.97,solar panels,Twiyo,residential,50.2
+28/07/2023,180.95,Bangalore,377,5,0.69,236,0.82,865.68,19.85,nuclear,Trudoo,governmental,69.2
+22/04/2024,703.98,Chennai,378,1,0.92,145.8,3.23,987.36,437.06,nuclear,Wikibox,industrial,52.2
+19/10/2023,567.19,Chennai,379,3,0.96,159.2,3.45,958.28,721.38,natural gas,Mybuzz,industrial,50.6
+21/06/2023,814.07,Mumbai,380,9,0.92,127.3,8.95,873.34,848.55,nuclear,Jabbersphere,governmental,0.6
+20/03/2025,132.88,Bangalore,381,6,0.46,140.2,7.12,466.81,365.47,solar panels,Photobean,transportation,2.9
+30/04/2023,80.2,Mumbai,382,3,0.34,117.5,7.37,438.41,103.18,wind mill,Shuffletag,governmental,55.2
+12/02/2025,169.03,Delhi,383,7,0.34,228.8,1.25,485.78,487.91,nuclear,Photojam,residential,20.2
+17/04/2024,247.68,Chennai,384,4,0.54,167.9,7.62,666.89,119.05,biomass,Muxo,governmental,76.1
+15/11/2022,697.19,Chennai,385,10,0.82,102.7,9.01,287.04,423.48,natural gas,Eare,commercial,14.7
+04/09/2023,494.88,Kolkata,386,3,0.29,238.4,4.45,167.56,956.22,wind mill,Rhyzio,residential,52
+24/10/2023,862.34,Mumbai,387,2,0.53,187.2,0.93,161.5,558.51,nuclear,Gigaclub,commercial,55.4
+07/05/2023,904.34,Kolkata,388,8,0.36,212.1,5.87,532.83,441.05,biomass,Meezzy,industrial,30.3
+30/05/2024,493.82,Mumbai,389,1,0.62,101.4,5.76,749.83,717.64,nuclear,Youopia,residential,36.4
+12/08/2024,113.22,Mumbai,390,8,0.54,114.4,3.41,643.38,259.7,nuclear,Yozio,governmental,57.2
+25/04/2023,174.94,Kolkata,391,10,0.26,188.2,3.28,575.31,565.04,solar panels,Yakijo,commercial,43.2
+16/05/2023,878.35,Mumbai,392,8,0.08,185.7,1.05,535.45,260.6,nuclear,Jaxspan,industrial,53.7
+03/07/2024,614.73,Kolkata,393,1,0.01,119.2,2.45,316.91,121.97,natural gas,Chatterbridge,governmental,68
+17/04/2023,292.87,Bangalore,394,6,0.47,186.9,6.97,850.77,709.73,nuclear,Skyba,commercial,40.5
+24/10/2023,728.35,Bangalore,395,10,0.81,110.9,3.96,988.13,60.97,solar panels,Photospace,commercial,70.9
+12/10/2023,480.43,Bangalore,396,2,0.64,150.9,9.6,120.53,227.97,wind mill,Wordpedia,governmental,97
+17/11/2022,99.38,Kolkata,397,8,0.25,115.7,9.49,997.01,712.4,natural gas,Agivu,transportation,81.1
+23/04/2024,462.41,Kolkata,398,7,0.15,117.6,1.94,985.27,736.44,natural gas,Jabberbean,governmental,65.1
+29/04/2023,656.52,Bangalore,399,4,0.03,147.9,0.14,417.8,87.58,solar panels,Yacero,industrial,42.7
+30/12/2024,827.43,Kolkata,400,5,0.77,161.5,1.96,308.86,748.13,natural gas,Mynte,industrial,68.3
+14/08/2024,864.12,Chennai,401,3,0.83,175.9,9.27,157.66,235.21,solar panels,Yacero,governmental,63.8
+18/11/2023,911.46,Kolkata,402,8,0.86,186.8,1.71,180.6,862.75,natural gas,Camimbo,governmental,70.7
+28/10/2024,442.06,Chennai,403,10,0.39,157.9,9.49,129.66,696.55,biomass,Demivee,commercial,3.8
+17/03/2024,308.6,Mumbai,404,9,0.75,113.8,6.06,59.44,761.02,solar panels,Gabtype,governmental,95.3
+10/11/2024,610.48,Delhi,405,9,0.47,157,4.25,291.88,951.56,solar panels,Zoombeat,commercial,74.7
+26/04/2023,820.01,Mumbai,406,6,0.1,161,6.6,427.75,805.69,solar panels,Dazzlesphere,residential,48.1
+11/01/2025,75.25,Delhi,407,3,0.66,170.8,9.98,832.56,622.61,natural gas,Voomm,residential,8.9
+04/08/2023,651.41,Bangalore,408,6,0.5,134.1,3.11,465.44,933.23,wind mill,Jayo,commercial,43.8
+12/07/2024,5.67,Chennai,409,2,0.75,215.4,5.89,55.29,576.29,natural gas,Centizu,commercial,41.5
+14/03/2024,443.19,Bangalore,410,5,0.19,195.8,8.81,794.76,277.19,solar panels,Yacero,industrial,65.4
+28/07/2023,950.64,Delhi,411,4,0.02,196.7,8.7,627.66,691.57,biomass,Skiba,governmental,67.8
+24/05/2024,709.96,Delhi,412,8,0.43,168.9,1.83,613.34,218.95,solar panels,Gigashots,commercial,7.9
+02/08/2023,583.58,Kolkata,413,3,0.65,116.4,4.58,83.02,6.17,biomass,Gigashots,governmental,64.2
+13/09/2024,138.59,Delhi,414,6,0.94,125.2,8.15,83.89,83.14,wind mill,Eire,transportation,48.2
+16/11/2022,142.91,Bangalore,415,9,0.19,195.1,4.89,514.69,877.21,wind mill,Teklist,residential,24.2
+11/11/2024,771.49,Mumbai,416,3,0.75,180,7.19,17.44,215.86,natural gas,Dynabox,commercial,88.2
+24/01/2024,105.76,Kolkata,417,6,0.41,170.7,0.1,629.07,103.41,nuclear,Fivebridge,commercial,82.2
+14/04/2024,796.39,Kolkata,418,4,0.87,198,9.62,373.9,756.87,solar panels,Gevee,transportation,49.2
+26/12/2024,205.79,Mumbai,419,6,0.23,197.8,1.51,311.31,532.35,nuclear,Jaxspan,governmental,55.1
+12/12/2023,698.5,Mumbai,420,4,0.42,101.8,4.87,248.7,801.91,nuclear,Skilith,industrial,78.3
+07/10/2023,775.41,Bangalore,421,9,0.57,120.8,3.4,968.67,967.41,wind mill,Myworks,industrial,62.7
+07/02/2024,237.83,Delhi,422,6,0.76,196.3,8.41,711.8,512.72,natural gas,Podcat,residential,94.3
+27/08/2023,190.53,Mumbai,423,8,0.36,169.1,8.14,792.84,129.94,biomass,Oyondu,transportation,3.4
+14/01/2024,779.78,Delhi,424,8,0.83,185,5.02,360.82,733.13,wind mill,Livefish,industrial,98
+25/08/2023,44.87,Delhi,425,2,0.74,185.5,2.13,823.44,471.54,solar panels,Yata,transportation,87.6
+13/04/2023,187.25,Mumbai,426,7,0.99,142.7,6.79,440.02,238.46,solar panels,Cogidoo,industrial,20.8
+12/01/2023,489.48,Kolkata,427,5,0.97,103,6.73,300.77,402.49,nuclear,Dabfeed,transportation,77.4
+16/05/2024,571.35,Mumbai,428,9,0.59,181.9,0.99,574.04,601.55,solar panels,Tazz,transportation,46.7
+31/01/2023,579.6,Bangalore,429,10,0.86,227.3,0.3,834.05,741.82,solar panels,Innojam,industrial,39.9
+08/04/2024,922.32,Mumbai,430,1,0.36,233,5.86,294.86,311.92,biomass,Innotype,residential,64.4
+26/04/2024,663.03,Chennai,431,6,0.38,185.4,8.75,727.78,898.37,biomass,Wordtune,commercial,5.3
+05/10/2024,435.56,Bangalore,432,9,0.29,141,9.58,113.19,379.95,wind mill,Thoughtstorm,governmental,80.5
+14/12/2024,315.57,Bangalore,433,3,0.38,132.9,2.15,813.63,896.45,nuclear,Zoomzone,transportation,59.6
+25/12/2024,401.12,Bangalore,434,5,0.18,103.9,0.14,460.92,764.58,wind mill,Tazz,governmental,92.7
+29/08/2023,306.9,Delhi,435,5,0.83,233.1,6.53,713.64,789.12,natural gas,Skipfire,commercial,7.5
+21/12/2024,226.8,Mumbai,436,1,0.85,130.9,3.16,59.81,512.22,biomass,Gigabox,industrial,82.3
+24/04/2025,566.82,Bangalore,437,4,0.65,169.2,2.33,853.99,413.46,natural gas,Skinder,transportation,42.6
+25/07/2023,70.6,Chennai,438,7,0.17,231.3,0.17,851.11,339.06,natural gas,Jazzy,transportation,40
+03/06/2023,452.78,Delhi,439,4,0.95,177.6,1.28,316.45,3.63,nuclear,Leexo,governmental,58.4
+21/07/2023,692.94,Delhi,440,10,0.84,169.1,9.61,835.58,637.56,natural gas,Shufflebeat,governmental,30.1
+19/09/2024,139.97,Kolkata,441,2,0.76,199.5,2.54,302.49,49.1,nuclear,Buzzbean,transportation,95.3
+03/03/2023,394.69,Bangalore,442,4,0.5,187.5,4.56,77.97,711.31,nuclear,Fanoodle,transportation,98.8
+09/06/2024,564.08,Chennai,443,5,0.87,159.9,7.3,23.15,198.11,solar panels,Dabshots,governmental,86.3
+20/04/2025,495.46,Kolkata,444,3,0.22,216.7,8.77,664.74,937.92,biomass,Npath,commercial,83.2
+27/11/2022,213.41,Mumbai,445,5,0.33,136.6,5.71,200.25,864.91,natural gas,Kamba,commercial,55.7
+03/03/2024,873.83,Chennai,446,1,0.34,107.9,6.1,338.15,112.13,wind mill,Brainverse,commercial,35.1
+20/09/2024,721.29,Kolkata,447,2,0.3,156.2,5.26,785.61,710.37,solar panels,Topdrive,governmental,31.6
+15/03/2023,234.37,Chennai,448,7,0.35,155.8,1.05,914.73,947.81,biomass,Livetube,commercial,90.6
+05/08/2023,143.57,Mumbai,449,8,0.03,176.3,6.99,900.52,377.02,biomass,Trupe,governmental,84.7
+19/01/2024,555.81,Chennai,450,6,0.48,137.1,0.39,543.13,778.71,solar panels,Vinte,governmental,98
+03/01/2024,208.77,Bangalore,451,9,0.74,174.6,7.66,149.3,248.92,wind mill,InnoZ,commercial,33.5
+04/03/2024,583.82,Chennai,452,2,0.09,194.9,4.03,931.6,508.93,nuclear,Dabtype,industrial,53
+31/07/2023,911.85,Mumbai,453,9,0.16,225.5,9.21,546.75,748.98,solar panels,Topicblab,transportation,37.6
+04/12/2024,476.43,Chennai,454,3,0.41,179.5,0.72,443.58,708.54,natural gas,Layo,transportation,40.3
+07/07/2023,613.06,Mumbai,455,8,0.15,164,4.12,127.62,245.46,solar panels,Oyonder,residential,13.1
+24/04/2023,481.7,Bangalore,456,6,0.19,109.4,9.64,482.27,39.64,solar panels,Eimbee,governmental,35
+24/09/2024,551.15,Kolkata,457,6,0.26,124.6,1.48,621.25,638.6,wind mill,Latz,residential,65.5
+08/03/2024,746.47,Bangalore,458,5,0.41,139.6,6.38,531.9,487.65,natural gas,Topiczoom,governmental,41.7
+03/10/2024,543.6,Mumbai,459,1,0.07,220.7,8.56,817.7,338.4,nuclear,Reallinks,commercial,6
+28/01/2023,328.11,Bangalore,460,4,0.31,153.2,8.17,407.79,580.51,nuclear,Muxo,transportation,89.6
+12/10/2024,792.27,Delhi,461,5,0.51,160.6,5.27,918.17,324.52,solar panels,Eadel,industrial,61.7
+26/08/2023,293.7,Bangalore,462,7,0.22,140.6,3.52,7.33,968.34,wind mill,Ntags,commercial,86
+12/05/2023,703.2,Chennai,463,2,0.18,197.4,0.29,258.99,760.89,solar panels,Digitube,governmental,76.3
+11/12/2024,760.82,Kolkata,464,4,0.94,152.4,8,696.95,529.73,solar panels,Oloo,industrial,87.2
+04/03/2023,579.69,Chennai,465,6,0.42,218.8,4.88,525.57,860.02,natural gas,Snaptags,commercial,25.6
+08/09/2024,293.28,Chennai,466,10,0.93,165.8,3.95,509.52,578.05,wind mill,Skimia,governmental,92
+19/05/2024,569.14,Kolkata,467,2,0.12,145.5,5.83,322.01,486.26,natural gas,Meembee,governmental,88.5
+13/09/2023,619.55,Mumbai,468,10,0.43,209.9,4.83,66.6,437.84,nuclear,Cogibox,commercial,85.3
+25/09/2023,505.8,Mumbai,469,5,0.71,116.4,3.38,292.45,181.66,biomass,Mybuzz,residential,58.8
+30/11/2022,318.17,Mumbai,470,7,0.44,101.1,5.88,668.65,101.23,wind mill,Tanoodle,commercial,80.8
+25/05/2024,79.14,Mumbai,471,4,0.41,169.6,1.54,375.53,452.19,wind mill,Topicware,industrial,98.4
+23/11/2024,417.38,Chennai,472,3,0.14,234.2,6.18,994.39,698.77,wind mill,Edgetag,commercial,50.5
+21/12/2022,909.47,Bangalore,473,7,1,121,5.79,739.28,843.27,wind mill,Browsetype,residential,70.4
+18/08/2024,442.05,Kolkata,474,8,0.67,219,4.91,810.52,915.89,biomass,Dynava,industrial,77.9
+25/02/2024,905.16,Chennai,475,7,0.07,238.8,6.39,727.51,586.7,natural gas,Camido,governmental,54.4
+17/04/2023,17.81,Kolkata,476,6,0.44,129,5.56,165.95,259.62,wind mill,BlogXS,industrial,59.8
+15/02/2025,504.78,Mumbai,477,2,0.08,163.5,6.6,263.42,188.77,biomass,Teklist,transportation,63.4
+06/04/2024,445.5,Mumbai,478,10,0.86,158.3,7.8,979.8,713.47,biomass,Avavee,governmental,6.6
+07/08/2023,967.85,Chennai,479,7,0.62,114.1,7.85,148.02,285.22,solar panels,Fivebridge,residential,60.7
+02/05/2023,174.37,Kolkata,480,1,0.44,163.5,7.43,527.76,449.49,nuclear,Roomm,transportation,95.4
+21/11/2024,722.75,Kolkata,481,3,0.74,166.5,2.63,389.84,256.6,natural gas,Wikizz,industrial,90.6
+14/04/2025,924.74,Kolkata,482,9,0.24,114.5,9.19,409.18,357.9,solar panels,Meedoo,commercial,64.5
+22/03/2023,370.13,Chennai,483,10,0.43,180.5,5.28,175.48,866.92,wind mill,Centizu,transportation,7.6
+08/05/2024,763.04,Chennai,484,6,0.01,151.1,7.95,743.72,293.16,natural gas,Twimbo,commercial,70.4
+09/11/2023,976.57,Kolkata,485,1,0.27,160.7,1.54,506.37,118.93,wind mill,Zava,industrial,63.3
+10/10/2024,193.42,Bangalore,486,2,0.31,238.7,5.74,221.81,837.49,biomass,Wikizz,transportation,63.5
+06/04/2025,517.87,Mumbai,487,6,0.17,134.6,6.53,379.68,643.36,natural gas,Mita,governmental,79
+03/09/2023,998.53,Mumbai,488,3,0.21,151.2,0.31,759.1,321.57,nuclear,Twitterbeat,commercial,51.5
+03/07/2024,993.21,Delhi,489,3,0.72,192.6,3.5,484.04,159.21,biomass,Skyba,commercial,7.2
+25/01/2025,936.93,Kolkata,490,8,0.06,184.4,5.45,469.91,955.49,wind mill,Zoonoodle,industrial,44.5
+17/12/2023,300.03,Bangalore,491,8,0.19,150.4,0.82,210.76,169.97,biomass,Meejo,industrial,53.1
+16/01/2023,948.12,Bangalore,492,6,0.17,127.1,1.18,299.8,808.15,wind mill,Yambee,residential,63.2
+30/10/2023,901.59,Mumbai,493,8,0.49,100.4,3.14,535.63,139.63,nuclear,Edgepulse,commercial,39
+25/11/2024,688.22,Mumbai,494,1,0.84,171.5,6.7,958.35,374.24,solar panels,Thoughtbridge,residential,34.1
+20/10/2023,483.79,Chennai,495,1,0.25,123.2,8.27,596.66,10.88,wind mill,Dabvine,commercial,48.4
+17/07/2023,835.53,Bangalore,496,9,0.95,107.7,5.46,842,8.5,biomass,Chatterpoint,transportation,19.3
+07/08/2024,709.99,Chennai,497,7,0.34,137.5,2.39,836.74,500.05,natural gas,Wikizz,residential,88
+11/04/2024,643.19,Delhi,498,10,0.27,217.8,2.86,856.32,97.83,biomass,Centizu,industrial,88.7
+24/12/2023,650.12,Mumbai,499,5,0.98,173.9,9.52,979.09,21.84,natural gas,Divavu,governmental,2.6
+28/07/2024,353.56,Kolkata,500,2,0.9,117.9,4.04,602.24,202.65,wind mill,Dabfeed,residential,34.2
+27/12/2022,91.97,Mumbai,501,3,0.06,109.6,1.26,62.89,64.08,nuclear,Thoughtstorm,transportation,2.8
+27/06/2024,186.33,Delhi,502,1,0.67,233.3,4.95,746.92,309.57,nuclear,Devcast,residential,57.9
+28/02/2024,997,Chennai,503,8,0.46,205.7,6.17,416.35,307.72,biomass,Thoughtsphere,residential,18.9
+21/07/2024,615.16,Mumbai,504,8,0.04,208.7,6.73,789.94,170.78,nuclear,Roombo,transportation,42.4
+07/03/2024,662.89,Mumbai,505,8,0.3,117.5,4.12,941.03,527,nuclear,Edgetag,transportation,30.3
+26/04/2023,201.58,Bangalore,506,6,0.99,199.2,1.73,179.49,900.27,biomass,Kaymbo,commercial,1.9
+23/04/2023,989.12,Chennai,507,8,0.15,148.1,4.92,747.68,498.11,natural gas,Flashpoint,industrial,52
+21/04/2024,235.87,Chennai,508,6,0.02,182.4,8.11,831.35,522.8,natural gas,Edgepulse,commercial,3
+17/11/2023,487.7,Mumbai,509,3,0.36,107.4,9.32,482.59,638.65,wind mill,Eare,transportation,73
+30/06/2023,427.32,Delhi,510,3,0.22,206.7,4.25,654.76,846.54,biomass,Nlounge,governmental,19.5
+21/05/2024,748.91,Bangalore,511,5,0.4,147.8,8.15,855.21,154.28,nuclear,Quimba,industrial,97.1
+26/07/2023,437.91,Kolkata,512,5,0.2,219.7,3.54,220.7,558.85,wind mill,Yacero,governmental,13.1
+28/11/2022,841.89,Delhi,513,9,0.74,117,1.67,494.47,910.27,solar panels,Agivu,transportation,77.5
+21/06/2024,142.87,Delhi,514,3,0.88,230.5,4.09,789.8,361.03,biomass,Twitterbridge,residential,25.2
+17/11/2024,899.76,Bangalore,515,7,0.57,172.4,6.67,965.13,65.75,nuclear,Fatz,governmental,68
+09/03/2023,75.09,Kolkata,516,8,0.03,184.6,4.91,638.12,815.75,biomass,Quinu,residential,44.3
+21/05/2023,724.73,Kolkata,517,1,0.39,129.4,0.14,440.69,792.79,natural gas,Photojam,governmental,52
+06/12/2024,384.74,Bangalore,518,7,0.89,138.5,7.78,868.38,824.48,solar panels,Midel,commercial,61.4
+15/11/2022,704.33,Bangalore,519,6,0.67,123,8.02,58.22,32.02,wind mill,Avaveo,transportation,87.3
+09/08/2024,928.9,Kolkata,520,3,0.92,110.3,7.78,10.87,11.68,nuclear,Kazu,transportation,53.4
+24/02/2023,284.96,Kolkata,521,10,0.07,180.7,9.78,516.36,884.27,wind mill,Jaloo,governmental,21.6
+09/12/2024,594.17,Chennai,522,7,0.78,212.3,4.15,607.89,627.49,solar panels,Youopia,residential,52.2
+24/04/2024,66.34,Kolkata,523,7,0.57,216.1,2.61,127.26,161.93,biomass,Omba,commercial,59.6
+25/03/2023,753.01,Kolkata,524,2,0.65,139.7,5.14,609.89,223.5,biomass,Jaxnation,residential,44.9
+19/06/2023,251.87,Chennai,525,7,0.11,182.2,0.32,469.32,509.69,nuclear,Twitternation,industrial,95.1
+12/01/2025,653.74,Kolkata,526,9,0.49,171.1,9.01,124.76,266.1,natural gas,Zoovu,transportation,89.8
+16/08/2024,309.43,Delhi,527,2,0.26,136.9,8.5,406.33,832.18,natural gas,Einti,commercial,4
+06/06/2024,51.84,Bangalore,528,9,0.2,236.3,9.43,178.37,164.37,solar panels,Bluejam,industrial,59.6
+05/12/2023,108.7,Delhi,529,5,0.69,193.3,5.5,267.48,390.72,natural gas,Fiveclub,commercial,56.1
+26/07/2023,573.54,Delhi,530,5,0.94,179.2,5.49,81.45,489.78,wind mill,Thoughtbridge,governmental,93
+23/04/2023,543.2,Mumbai,531,1,0.01,205.2,5.16,800.91,42.05,biomass,Dynava,transportation,33.6
+13/12/2024,245.38,Chennai,532,9,0.84,201,6.06,995.1,803.25,nuclear,Quire,transportation,19.2
+04/06/2023,481.05,Mumbai,533,5,0.27,127.7,5.74,414.17,458.35,natural gas,Wikizz,governmental,83.3
+11/02/2025,710.57,Delhi,534,4,0.77,176.4,9.23,950.31,139.6,biomass,Eamia,industrial,61.4
+27/07/2023,154.15,Chennai,535,1,0.35,208.7,5.09,654.76,400.73,nuclear,Devify,governmental,68.8
+03/05/2024,106.95,Mumbai,536,6,0.42,187,3.42,855.91,21.04,natural gas,Innojam,commercial,25.6
+02/10/2023,976.99,Mumbai,537,8,0.48,128.7,3.12,955.97,542.22,natural gas,Dynabox,residential,69.7
+25/11/2022,466.29,Chennai,538,5,0.75,215,4.23,894.54,34.32,natural gas,Edgewire,residential,3.3
+01/06/2023,521.35,Mumbai,539,9,0.46,176.2,9.57,169.94,65.2,nuclear,Babbleset,industrial,47.8
+29/01/2025,414.85,Chennai,540,2,0.91,218.4,5.14,659.84,222.29,biomass,Demizz,residential,32.1
+27/05/2023,237.21,Chennai,541,1,0.67,198.4,0.63,353.55,561.38,solar panels,Bubbletube,transportation,11.5
+17/06/2024,257.08,Chennai,542,1,0.08,145.2,1.23,520.25,523.41,solar panels,Realbridge,transportation,7.4
+21/03/2023,621.46,Kolkata,543,4,0.16,111,0.32,215.32,581.88,nuclear,Meedoo,governmental,23.8
+29/09/2024,487.92,Delhi,544,2,1,106.3,1.02,16.83,243.65,natural gas,Zoomlounge,governmental,32.9
+18/06/2024,624.11,Delhi,545,3,0.26,165.6,1.33,655.64,156.92,wind mill,Wikibox,residential,69.1
+23/02/2023,119.77,Chennai,546,8,0.25,227.2,9.98,48.67,521.71,wind mill,Abatz,governmental,19.2
+07/07/2024,540.11,Mumbai,547,10,0.94,202.4,1.96,493.31,454.28,natural gas,Rhybox,commercial,97.2
+29/01/2023,730.48,Chennai,548,5,0.99,157.9,6.2,232.38,691.21,solar panels,Devpulse,commercial,35.8
+15/11/2023,687.3,Mumbai,549,4,0.95,166.8,8.77,566.83,724.43,wind mill,Digitube,industrial,25.5
+23/05/2024,262.37,Mumbai,550,10,0.87,232.7,5.26,823.97,56.88,nuclear,Wikizz,residential,9.7
+29/11/2022,564.61,Kolkata,551,5,0.15,158.7,5.05,116.9,963.27,solar panels,Meetz,residential,1.5
+22/01/2023,670.91,Chennai,552,9,0.62,233.7,5.22,119.38,211.59,nuclear,Eazzy,residential,96.8
+16/08/2024,672.41,Bangalore,553,5,0.62,100.3,1.39,816.16,919.64,natural gas,Janyx,governmental,87.3
+15/01/2023,386.34,Bangalore,554,8,0.51,113.2,5.69,766.8,891.7,wind mill,Zoonder,industrial,70.7
+31/08/2024,94.8,Chennai,555,2,0.44,106.9,0.24,330.88,132.3,natural gas,Eabox,commercial,31.2
+17/02/2025,104.33,Delhi,556,2,0.69,179.7,1.91,343.14,134.52,natural gas,Realfire,commercial,17.4
+14/02/2024,351.45,Mumbai,557,7,0.29,152.3,5.34,201.41,422.95,biomass,Skyba,commercial,50.1
+16/04/2023,799.63,Kolkata,558,6,0.44,198.3,9.72,501.88,864.43,solar panels,Devbug,residential,43.8
+24/03/2025,913.89,Delhi,559,6,0.48,104.7,2.54,909.45,8.66,biomass,Twitterworks,transportation,44.3
+29/12/2022,965.03,Kolkata,560,8,0.87,173.1,5.21,658.83,945.66,natural gas,Dablist,transportation,13.8
+18/06/2023,831.84,Chennai,561,7,0.34,237.7,2.24,603.23,117.19,wind mill,Linkbridge,industrial,54.6
+19/12/2024,666.81,Delhi,562,1,0.83,178.6,7.49,484.27,946.37,solar panels,Ainyx,governmental,72.4
+25/07/2024,798.33,Kolkata,563,6,0.4,236.2,8.57,852.71,688.18,natural gas,Lazzy,industrial,59.4
+17/01/2023,811.91,Bangalore,564,10,0.03,138.3,2.48,374.22,859.81,nuclear,Quamba,industrial,11.2
+20/04/2024,561.62,Delhi,565,7,0.75,207.2,8.82,26.38,869.58,natural gas,Vinte,transportation,30.4
+22/11/2023,853.88,Kolkata,566,4,0.44,218.2,9.72,233.39,811,nuclear,Feedbug,residential,41.4
+24/03/2024,303.51,Mumbai,567,5,0.66,110.6,9.51,908.6,338.72,wind mill,Thoughtworks,commercial,70.1
+17/10/2023,350.45,Mumbai,568,3,0.34,225.7,8.97,534.01,973.39,natural gas,Kayveo,commercial,77.8
+27/12/2023,635.22,Chennai,569,4,0.55,166.1,3.47,724.22,594.19,wind mill,Gabtune,residential,4.4
+10/04/2025,224.83,Kolkata,570,5,0.35,227.3,7.64,937.88,340.7,solar panels,Rhyzio,governmental,95.4
+12/10/2023,662.71,Mumbai,571,2,0.48,179.4,7.13,771.44,421.04,nuclear,Brainlounge,governmental,24
+11/05/2023,418.12,Kolkata,572,7,0.56,166.4,2.34,761.27,43.23,solar panels,Gabspot,residential,13.6
+09/05/2023,288.32,Delhi,573,7,0.08,229.3,9.87,371.53,855.87,wind mill,Nlounge,commercial,53.4
+23/10/2023,581.43,Chennai,574,7,0.36,192.8,5.55,657.04,410.71,wind mill,Devpoint,residential,26.2
+02/09/2024,542.81,Kolkata,575,1,0.56,226.3,1.67,95.21,783.49,wind mill,Youspan,industrial,9.5
+14/03/2025,85.16,Kolkata,576,5,0.92,225.8,8.47,88.47,381.65,natural gas,Jayo,commercial,50.9
+09/09/2024,574.33,Mumbai,577,8,0.98,224.5,4.05,7.89,807.27,solar panels,Jetwire,residential,42.3
+05/02/2024,686.67,Kolkata,578,6,0.44,196.1,5.22,950.01,514.38,wind mill,Zooxo,governmental,79
+01/04/2024,691.76,Bangalore,579,3,0.21,144.1,8.05,604.09,696.48,solar panels,Flipbug,transportation,93.9
+21/03/2024,367.25,Kolkata,580,6,0.14,211.1,6.6,205.31,649.73,wind mill,Flashpoint,industrial,51.3
+30/09/2024,219.19,Delhi,581,2,0.04,175.1,2.99,935.09,668.34,solar panels,Fliptune,governmental,56.2
+17/11/2022,752.72,Delhi,582,1,0.26,151.7,9.16,380.33,346.22,wind mill,Oyondu,industrial,94
+07/03/2024,179.27,Delhi,583,4,0.84,155.1,3.93,950.79,360.23,biomass,Thoughtstorm,transportation,92.2
+01/01/2024,575.34,Kolkata,584,6,0.65,113.6,2.4,56.02,992.84,solar panels,Aimbo,commercial,17.1
+20/07/2023,390.84,Chennai,585,1,0.55,213.2,7.59,21.29,287.01,natural gas,Babbleopia,transportation,26.3
+14/10/2023,37,Chennai,586,4,0.82,239.3,1.42,800.22,240.19,biomass,Youbridge,commercial,68.8
+03/12/2024,674.37,Kolkata,587,10,0.02,182.8,7.82,694.77,95.05,wind mill,Dablist,transportation,90.8
+24/06/2023,860.57,Mumbai,588,6,0.58,183.5,3.9,266.21,12.27,natural gas,Quamba,commercial,23
+22/05/2024,240.55,Chennai,589,3,0.3,186,5.08,568.03,885,wind mill,Pixonyx,industrial,55.8
+13/05/2024,647.51,Mumbai,590,7,0.63,199.4,2.13,456.02,269.13,biomass,Edgetag,transportation,59.4
+12/07/2023,833.73,Delhi,591,4,0.38,212.2,1.57,942.94,392.06,biomass,Buzzster,residential,67.4
+31/01/2024,618.31,Mumbai,592,1,0.86,166.6,5.66,5.41,101.6,natural gas,Tagchat,residential,8.2
+15/01/2023,276.54,Delhi,593,6,0.37,215.6,9.33,891.72,505.91,nuclear,Tagtune,governmental,72.5
+24/02/2025,728.69,Mumbai,594,6,0.77,121.9,5.15,228.67,396.03,nuclear,Edgepulse,residential,43.3
+06/01/2023,495.44,Mumbai,595,4,0.74,163.6,7.46,99.11,994.68,biomass,Oodoo,governmental,45.2
+21/01/2024,87.65,Bangalore,596,4,0.61,219.7,4.63,375.38,296.02,wind mill,Browsecat,industrial,58.6
+23/02/2025,635.07,Mumbai,597,8,0.25,207.5,3.3,668.87,137.32,nuclear,Voonix,commercial,17.7
+20/12/2024,506.47,Mumbai,598,9,0.13,114.4,4.35,37.28,950.9,nuclear,Viva,residential,19.5
+12/08/2023,408.76,Chennai,599,8,0.74,228.4,7.05,766.95,959.01,solar panels,Aibox,transportation,35.9
+02/05/2023,824.46,Kolkata,600,6,0.4,194.1,9.5,943.73,837.58,wind mill,Skidoo,commercial,50.9
+07/11/2024,49.09,Delhi,601,7,0.65,117.6,4.5,880.76,740.87,nuclear,Gabspot,commercial,56.7
+01/02/2025,568.32,Mumbai,602,4,0.01,182.3,2.01,628.3,678.24,solar panels,Babblestorm,governmental,20.9
+29/11/2022,412.36,Chennai,603,2,0.22,145.1,8.92,664.27,676.78,wind mill,Jetwire,transportation,4.8
+04/04/2025,884.38,Kolkata,604,4,0.33,125.8,4.5,22.42,680.31,wind mill,Realblab,commercial,67
+05/12/2024,935.59,Kolkata,605,8,0.89,135.1,6.28,744.75,295.96,wind mill,Roodel,commercial,43.8
+08/04/2024,833.03,Chennai,606,2,0.42,131.1,1.88,273.46,692.36,biomass,Eare,residential,78.2
+03/05/2023,628.09,Delhi,607,5,0.75,121.9,2.45,423.09,173.23,biomass,Wikido,industrial,10.2
+04/09/2023,581.47,Delhi,608,10,0.16,237.2,8.98,474.48,307.29,solar panels,Gigashots,commercial,24.8
+05/08/2024,770.05,Chennai,609,7,0.91,131.7,7.04,870.97,451.93,wind mill,Gigabox,commercial,66.4
+19/01/2025,644.69,Kolkata,610,4,0.81,209.9,5.7,705.66,640.48,nuclear,Yadel,residential,83.5
+03/05/2023,906.29,Mumbai,611,10,0.62,207.8,2.19,794.83,431.63,natural gas,Livetube,governmental,62.3
+17/05/2024,319.41,Chennai,612,1,0.95,177.1,8.4,744.28,677.89,natural gas,Eidel,governmental,58.3
+14/09/2024,763.76,Kolkata,613,2,0.24,121.8,1.65,789.41,548.96,solar panels,Voomm,governmental,70.8
+15/10/2023,85.36,Bangalore,614,7,0.05,150.7,3.76,954.77,221.34,wind mill,Tagopia,residential,6.1
+12/03/2023,744.85,Chennai,615,5,0.37,173.8,4.71,336.04,761.23,nuclear,Twitterlist,industrial,45.7
+31/08/2023,210.27,Mumbai,616,7,0.57,201.2,7.51,230.24,771.23,biomass,Babbleblab,residential,21
+13/01/2024,919.4,Mumbai,617,5,0.29,161.9,9.6,572.41,846.58,nuclear,Photojam,governmental,87.5
+07/09/2023,111.02,Mumbai,618,8,0.99,194.8,4.44,520.37,246.96,wind mill,Katz,governmental,6.2
+26/03/2023,591.31,Delhi,619,3,0.96,209.6,7.67,165.15,791.21,biomass,Skinix,governmental,66.9
+01/12/2022,103.91,Delhi,620,10,0.89,122.6,5.48,215.34,385.63,wind mill,Mita,industrial,29.3
+06/08/2023,43.08,Chennai,621,9,0.6,127.2,5.28,586.27,376.13,biomass,Eabox,transportation,46.6
+21/03/2025,531.22,Mumbai,622,6,0.15,193.2,2.07,61.09,860.29,natural gas,Zoombeat,transportation,18.8
+24/11/2024,369.15,Chennai,623,6,0.96,190.1,4.98,948.83,983.25,solar panels,Wordtune,industrial,5.8
+25/12/2024,569.61,Bangalore,624,8,0.88,209.5,0.81,140.67,732.39,wind mill,Jabbersphere,transportation,16.5
+17/09/2023,568.63,Kolkata,625,4,0.81,228.8,3.12,544.84,441,natural gas,Browsedrive,commercial,18.4
+11/03/2025,156.11,Mumbai,626,7,0.94,166.6,7.38,362.58,614.08,biomass,Devbug,residential,38.2
+04/06/2023,747.05,Kolkata,627,6,0.56,155.5,0.63,288.6,367.7,wind mill,Layo,industrial,80.6
+25/02/2023,301.2,Chennai,628,7,0.75,174.7,2.33,314.57,584.95,natural gas,Mynte,transportation,70.9
+17/03/2024,461.5,Bangalore,629,5,0.6,155,9.71,455.78,871.44,biomass,Youtags,transportation,97.7
+01/02/2025,859.58,Kolkata,630,4,0.77,198.5,1.65,430.3,33.76,wind mill,Quinu,industrial,2.8
+12/06/2023,879.02,Chennai,631,1,0.63,135.5,7.07,400.54,63.72,biomass,Feedfire,governmental,74.5
+08/04/2024,129.81,Mumbai,632,8,0.84,195.3,2.79,851.53,612.12,wind mill,Gevee,industrial,34.4
+13/08/2023,61.95,Kolkata,633,7,0.95,201,2.57,704.6,544.85,nuclear,Feednation,transportation,79.2
+12/03/2025,256.16,Chennai,634,3,0.14,117.1,7.06,729.92,12.83,biomass,Thoughtblab,residential,3.6
+02/07/2024,956.4,Mumbai,635,2,0.31,167.3,8.72,598.58,907.35,nuclear,Quatz,governmental,60.4
+23/01/2025,443.46,Bangalore,636,10,0.85,221.7,2.42,589.95,848.17,wind mill,Brightdog,transportation,83.5
+16/04/2025,509.01,Bangalore,637,9,0.73,134.2,5.12,294.51,836.79,natural gas,Youtags,transportation,34.1
+04/02/2024,867.09,Mumbai,638,8,0.02,114.1,1.5,457.59,724.21,solar panels,Roodel,commercial,43.8
+21/04/2023,802.08,Kolkata,639,2,0.4,153.7,8.45,618.81,263.66,wind mill,Gevee,commercial,60.1
+20/10/2023,963.92,Bangalore,640,9,0.21,228.9,7.61,944.24,231.04,wind mill,Yotz,industrial,81
+13/11/2023,709.24,Kolkata,641,2,0.89,227.6,0.1,197.27,565.55,nuclear,Dabtype,commercial,98.1
+08/06/2023,831.53,Mumbai,642,4,0.58,114.1,3.3,455.78,962.3,nuclear,Ainyx,residential,82.3
+19/08/2024,14.34,Bangalore,643,9,0.28,231.2,0.1,173.35,97.04,solar panels,Vinte,transportation,84.1
+17/05/2024,679.01,Mumbai,644,7,0.31,212.9,1.98,13.48,772.51,biomass,Bubblemix,transportation,22.1
+12/02/2024,338.1,Chennai,645,6,0.79,189.3,4.02,459.39,931.33,biomass,Jabbercube,commercial,0.9
+02/10/2023,782.53,Bangalore,646,5,0.41,101.2,3.1,411.48,319.54,solar panels,Wikido,governmental,78.4
+25/05/2024,120.01,Kolkata,647,4,0.01,192.8,2.39,912.25,51.83,nuclear,Mydo,industrial,93.7
+02/07/2024,779.7,Mumbai,648,3,0.32,155.2,3,420.7,578.19,solar panels,Oyoba,industrial,41.3
+09/01/2023,671.49,Chennai,649,8,0.31,133.2,5.24,914.9,831.97,biomass,Reallinks,industrial,79
+17/01/2023,32.86,Kolkata,650,8,0.3,111,5.96,648.18,71.43,natural gas,Feedspan,governmental,47.9
+17/03/2024,774.87,Chennai,651,3,0.52,229.3,7.23,102.65,972.91,biomass,Linklinks,governmental,27.4
+05/01/2024,572.74,Delhi,652,3,0.71,150.8,6.42,50.61,230.53,solar panels,Quimm,governmental,38.7
+26/06/2024,778.73,Bangalore,653,9,0.8,174.7,8.49,762.25,786.34,natural gas,Geba,governmental,52.7
+14/01/2025,152.6,Mumbai,654,8,0.55,107.7,3,765.19,854.46,wind mill,Kazio,transportation,21.6
+07/06/2023,250.1,Chennai,655,3,1,204.2,0.49,223.09,456.2,nuclear,Yakidoo,commercial,4.8
+19/04/2023,102.93,Chennai,656,6,0.53,191.1,4,950.98,233.35,solar panels,Skiba,industrial,68.9
+05/12/2023,963.22,Mumbai,657,4,0.05,191.6,0.62,469.99,366.07,solar panels,Babbleopia,residential,30.4
+01/02/2024,234.31,Kolkata,658,1,0.34,142.8,8.14,929.93,789.73,biomass,Twitternation,governmental,88.5
+30/12/2024,544,Delhi,659,6,0.14,149.4,9.08,137.66,728.41,solar panels,Thoughtstorm,industrial,24.6
+11/01/2024,437.69,Bangalore,660,10,0.03,179.1,2.89,998.61,876.46,solar panels,Tazz,industrial,77.6
+26/10/2024,996.45,Bangalore,661,5,0.19,208.7,1.48,946.78,729.79,wind mill,Wikizz,transportation,39.9
+16/12/2023,749,Kolkata,662,1,0.42,212.6,6.34,317.53,151.96,solar panels,Fivechat,transportation,62.1
+23/01/2025,816.64,Mumbai,663,7,0.14,195.5,5.4,902.28,176.14,solar panels,Skippad,commercial,43.6
+06/03/2023,361.62,Delhi,664,9,0.5,148.7,9.88,551.77,460.34,nuclear,Blogtag,governmental,96.6
+20/04/2025,223.03,Bangalore,665,1,0.15,155.9,7.96,697.25,451.13,nuclear,Avavee,residential,36.3
+08/03/2023,245.02,Chennai,666,2,0.35,164.5,2.04,396.78,663.93,wind mill,Mita,commercial,88.7
+18/12/2022,0.31,Mumbai,667,6,0.93,136.4,7.54,282.21,51.6,biomass,Ainyx,transportation,20.3
+10/05/2024,842.89,Mumbai,668,7,0.81,138.3,2.3,408.26,536.15,nuclear,Youopia,commercial,1.8
+10/01/2023,495.49,Mumbai,669,1,0.26,210.2,0.2,891.93,416.51,solar panels,Flashspan,transportation,90.6
+13/09/2023,825.13,Delhi,670,2,0.42,148.7,8.73,864.58,70.14,solar panels,Rhynyx,residential,61
+30/06/2023,595.22,Kolkata,671,10,0.78,197.3,9.96,475.67,20.64,biomass,Twitterbeat,commercial,56.5
+30/10/2023,668.74,Bangalore,672,8,0.97,132,6.81,459.87,183.14,solar panels,Devshare,transportation,27.7
+03/02/2025,403.73,Chennai,673,7,0.58,174.5,2.29,257.56,654.5,solar panels,Kazio,transportation,44.7
+27/04/2024,558.15,Delhi,674,4,0.16,110.3,2.8,570.35,809.07,biomass,Realcube,transportation,83.7
+02/05/2023,944.59,Bangalore,675,5,0.89,181.1,9.02,999.02,261.19,biomass,Riffpath,industrial,61.4
+04/04/2025,725.85,Delhi,676,9,0.37,195.5,9.1,118.29,850.75,nuclear,Cogilith,commercial,68.5
+21/12/2022,108.12,Kolkata,677,6,0.25,171.1,5.95,228.16,100.81,nuclear,Einti,transportation,70.5
+28/03/2024,619.29,Mumbai,678,9,0.57,158.3,0.38,166.52,628.59,solar panels,Avamba,residential,62
+05/07/2024,574.34,Chennai,679,4,0.77,150.2,3.44,169.49,220.19,biomass,Fivebridge,governmental,66.1
+01/06/2023,563,Chennai,680,4,0.12,155.5,2.77,576.44,692.52,solar panels,Mita,commercial,33.8
+02/04/2025,351.81,Delhi,681,4,0.04,188.5,8.25,493.02,138.92,nuclear,Buzzster,transportation,21.7
+22/08/2023,807.26,Bangalore,682,1,0.34,174,7.87,599.29,755.69,natural gas,Meetz,industrial,87
+11/04/2023,543.62,Kolkata,683,2,0.53,118.4,3.32,755.48,528.1,solar panels,Yombu,residential,81.6
+08/12/2024,628.28,Mumbai,684,9,0.08,168.5,5.1,575.72,677.61,biomass,Voolith,transportation,28.1
+08/12/2022,385.22,Bangalore,685,3,0.84,143.3,3.65,233.66,580.1,wind mill,Youspan,industrial,97.7
+24/04/2025,611.99,Bangalore,686,5,0.8,107.2,4.15,733.22,557.04,natural gas,Meetz,commercial,13.3
+23/04/2023,542.5,Kolkata,687,8,1,156.8,1.22,559.7,616.16,natural gas,Linklinks,governmental,2.9
+05/11/2023,270.6,Mumbai,688,4,0.83,229.2,8.65,57.13,303.99,nuclear,Eayo,governmental,84.5
+14/08/2023,985.51,Kolkata,689,10,0.13,126.4,8.51,616.64,906.31,solar panels,Tavu,governmental,64.6
+10/04/2024,606.32,Kolkata,690,6,0.22,210.2,7.15,130.18,173.9,biomass,Ooba,transportation,67.9
+08/05/2023,772.98,Chennai,691,6,0.13,204.2,6.66,282.3,126.39,wind mill,Tagfeed,transportation,49.7
+11/12/2023,90.9,Mumbai,692,5,0.08,207.4,5.72,744,408.61,wind mill,Rhybox,industrial,39.8
+13/02/2023,261.23,Kolkata,693,2,0.76,160.3,8.68,140.37,700.14,nuclear,Flipstorm,industrial,75.4
+10/01/2024,56.69,Delhi,694,5,0.65,184.7,1.03,640.11,528.75,solar panels,Thoughtmix,commercial,52
+23/04/2023,496.07,Kolkata,695,9,0.47,172.1,8.41,578.51,769.6,wind mill,Ailane,transportation,41
+05/09/2024,765.04,Kolkata,696,9,0.93,149.7,6.25,220.85,768.93,solar panels,Cogibox,residential,91.9
+13/07/2024,717.78,Mumbai,697,10,0.3,199.1,5.37,950.29,796.36,biomass,Flipstorm,transportation,34.1
+06/07/2023,394.37,Delhi,698,8,0.83,236.5,6.18,180.62,318.84,wind mill,Cogibox,residential,79
+29/11/2023,482.63,Mumbai,699,9,0.78,183.6,0.97,344.89,419.98,natural gas,Tazz,commercial,33.2
+10/06/2024,778.75,Kolkata,700,6,0.78,160.1,6.24,403.19,232.92,solar panels,Katz,residential,73
+20/12/2024,793.64,Mumbai,701,9,0.4,160.2,4.73,472.53,162.17,wind mill,Bluejam,transportation,53.6
+04/05/2023,462.85,Delhi,702,7,0.04,145.6,9.9,743.62,457.58,wind mill,Meeveo,transportation,66.5
+30/05/2023,925.61,Chennai,703,10,0.51,234.2,8.02,458.19,228.87,wind mill,Zava,commercial,15.3
+24/08/2023,717.98,Chennai,704,8,0.95,185,7.1,651.4,830.7,nuclear,Thoughtstorm,transportation,48.9
+03/03/2024,661.18,Mumbai,705,5,0.9,234.8,9.81,328.55,281.67,biomass,Kazu,transportation,58.2
+14/06/2024,609.9,Mumbai,706,6,0.67,133.9,7.72,566.24,946.77,natural gas,Edgetag,transportation,53.3
+26/10/2023,287.64,Chennai,707,3,0.62,186.4,4.67,890.37,116.42,wind mill,Omba,transportation,63.6
+03/09/2023,864.49,Delhi,708,10,0.86,154.4,5.55,691.44,202.95,solar panels,Zoomzone,transportation,39.1
+14/11/2023,604.79,Bangalore,709,3,0.84,228.2,2.51,724.98,825.59,biomass,Lajo,transportation,11.6
+01/12/2024,232.98,Bangalore,710,5,0.95,195,8.35,144.98,435.25,wind mill,Gigaclub,residential,81.1
+08/12/2023,315.59,Mumbai,711,9,0.95,190.7,5.45,106.65,936.44,natural gas,Edgeblab,industrial,96.4
+09/09/2024,979.93,Chennai,712,10,0.37,137.3,3.58,748.67,183.18,solar panels,Thoughtstorm,transportation,87.8
+30/12/2023,715.2,Mumbai,713,7,0.47,155.6,2.52,127.73,703,natural gas,Zoombox,residential,56.7
+02/09/2024,197.6,Kolkata,714,2,0.6,103.2,7.14,647.9,308.39,wind mill,Mydo,governmental,36.5
+27/12/2024,729.47,Chennai,715,5,0.84,217.3,6.61,723.32,84.9,natural gas,Janyx,industrial,78.6
+09/09/2024,34.36,Delhi,716,5,0.59,227,5.04,324.22,289.94,wind mill,Kayveo,transportation,47.1
+17/01/2025,399.43,Mumbai,717,9,0.24,159.4,5.36,803.1,140.5,wind mill,Eare,commercial,2.3
+07/08/2023,483.79,Mumbai,718,2,0.8,113.5,6.93,257.14,703.65,wind mill,Shuffledrive,industrial,18.9
+07/03/2025,219.13,Mumbai,719,7,0.31,213.6,0.72,226.53,967.57,solar panels,Voonder,governmental,50.7
+30/03/2024,413.18,Bangalore,720,7,0.96,144.5,1.53,974.96,128.38,wind mill,Devbug,industrial,43.9
+06/12/2023,931.27,Mumbai,721,5,0.96,227.3,4.29,322.28,387.01,nuclear,Skajo,commercial,81.5
+16/09/2024,118.28,Chennai,722,10,0.99,220.1,1.17,923.42,293.58,biomass,Babbleblab,residential,97.5
+26/11/2024,299.75,Kolkata,723,10,0.98,143.6,6.58,784.04,821.55,solar panels,Quinu,residential,90.9
+05/01/2025,962.44,Mumbai,724,3,0.41,172.9,9.69,276.85,838.5,wind mill,Realcube,industrial,57.9
+27/10/2023,503.58,Delhi,725,1,0.98,104,6.67,759.3,717.5,nuclear,Tagchat,residential,3.2
+16/05/2023,458.62,Delhi,726,6,0.81,169.8,6.41,937.03,703.7,biomass,Skyba,commercial,78.4
+08/02/2023,984.59,Mumbai,727,5,0.16,152.9,9.5,910.98,7.9,biomass,Yambee,industrial,1.9
+23/03/2024,773.11,Kolkata,728,4,0.89,226.2,9,305.77,773.68,solar panels,Twitterworks,industrial,30.3
+03/07/2024,181.09,Bangalore,729,8,0.39,106.8,5.94,72.33,168.79,solar panels,Gabspot,commercial,19.5
+06/04/2025,113.38,Chennai,730,1,0.98,162,3.11,626.89,216.93,natural gas,Photobug,industrial,58.3
+06/10/2024,481.73,Kolkata,731,4,0.71,197.3,7.12,484.99,71.14,biomass,Jamia,residential,3.7
+10/09/2023,304.15,Chennai,732,6,0.77,216.1,4.68,82.73,668.81,biomass,Pixonyx,industrial,4.8
+03/11/2023,803.62,Bangalore,733,6,0.92,136.3,3.04,133.46,913.26,natural gas,Aibox,governmental,8.9
+11/06/2024,551.06,Delhi,734,2,0.57,145.8,1.25,384.21,699.33,wind mill,Oyoyo,commercial,19.6
+09/04/2024,598.18,Mumbai,735,1,0.55,180.7,3.33,345.7,656.17,solar panels,Pixope,commercial,60.6
+25/05/2024,514.32,Bangalore,736,7,0.53,143.6,7.24,549.29,90.84,solar panels,Gigazoom,governmental,85.8
+03/06/2023,952.57,Bangalore,737,6,1,235.1,0.5,842.24,357.22,solar panels,Realfire,transportation,46
+27/02/2023,215.7,Bangalore,738,8,0.33,216.7,5.65,667.56,665.01,wind mill,Kare,industrial,83
+10/02/2024,456.95,Delhi,739,3,0.35,193.5,6.73,147.18,924.96,natural gas,Dynabox,residential,58.9
+13/05/2024,333.62,Bangalore,740,9,0.29,183.3,9.81,614.1,461.98,wind mill,Tagchat,commercial,14
+01/09/2024,858.32,Mumbai,741,6,0.63,210.7,7.99,862.76,204.33,nuclear,Realpoint,industrial,37.4
+14/06/2024,245.3,Delhi,742,5,0.33,139.6,5.93,402.64,732.09,natural gas,Gabvine,industrial,99.1
+09/03/2023,965.28,Kolkata,743,1,0.05,229.3,0.57,341.27,448.49,natural gas,Oozz,commercial,77.9
+02/08/2024,99.41,Bangalore,744,4,0.58,170,0.89,122.61,715.3,biomass,Gigazoom,industrial,64.3
+03/10/2023,411.21,Bangalore,745,4,0.95,150.1,4.86,70.2,156.7,wind mill,Dynabox,governmental,69.7
+02/10/2023,171.11,Bangalore,746,10,0.99,223.4,3.3,367.04,586.37,natural gas,Flipopia,transportation,21.2
+20/01/2023,103.14,Chennai,747,2,0.62,180.7,0.3,514.79,109.84,nuclear,Pixope,governmental,94.5
+03/02/2025,681.34,Kolkata,748,2,0.44,195.6,2.5,791.23,697.46,nuclear,Ooba,commercial,4.7
+11/09/2023,362.59,Bangalore,749,7,0.23,229.6,6.56,377.89,344.18,wind mill,Gigabox,transportation,65
+29/07/2024,713.19,Chennai,750,7,0.44,207.8,3.01,722.63,60.5,biomass,Pixope,residential,59.8
+03/02/2023,345.7,Bangalore,751,2,0.82,205.9,9.34,255.18,322.6,nuclear,Rhynyx,transportation,69.2
+04/07/2023,516.68,Mumbai,752,2,0.31,119.8,5.43,183.8,223.03,natural gas,Cogidoo,residential,5.4
+18/06/2024,92.05,Mumbai,753,10,0.13,184.1,2.29,11.17,54.6,wind mill,Feedmix,industrial,43.3
+08/07/2023,648.59,Kolkata,754,10,0.08,211.4,1.31,154.51,48.77,wind mill,Kwinu,transportation,42.5
+21/07/2023,0.74,Kolkata,755,2,0.06,163.9,2.22,801.69,324.15,wind mill,Layo,industrial,40.1
+19/04/2023,444.97,Delhi,756,1,0.52,189.3,9.37,989.39,160.09,wind mill,Babbleblab,commercial,14.5
+16/07/2024,815.62,Delhi,757,6,0.03,144.2,0.74,604.61,516.81,solar panels,Topicware,transportation,18.8
+28/11/2023,109.27,Chennai,758,3,0.56,151.5,4.05,881.19,520.84,solar panels,Yakijo,residential,91.5
+21/03/2025,282.88,Bangalore,759,5,0.11,139,5.1,298.58,820.4,natural gas,Gigashots,industrial,64.2
+05/12/2023,314.44,Kolkata,760,2,0.36,169.7,6.09,871.39,149.76,biomass,Abatz,transportation,55.8
+11/06/2023,580.31,Delhi,761,3,0.54,109.8,4.64,736.4,120.94,natural gas,Youspan,transportation,17.8
+19/07/2024,173.15,Mumbai,762,1,0.96,155.5,4.08,722.13,695.2,biomass,Yakijo,industrial,54
+04/04/2025,433.55,Chennai,763,6,0.09,155.7,1.18,229.71,867.13,nuclear,Thoughtmix,residential,12.1
+31/05/2023,474.07,Bangalore,764,6,0.44,153.9,9.37,134.47,386.21,natural gas,Tagopia,transportation,39.8
+05/04/2025,858.1,Delhi,765,6,0.31,232.1,0.43,507.53,380.83,solar panels,Mudo,residential,65
+29/06/2024,84.26,Delhi,766,8,0.01,178,9.08,458.26,664.59,biomass,Gabcube,governmental,49.4
+09/08/2023,280.35,Mumbai,767,2,0.31,191.9,2.17,490.51,538.91,wind mill,Bluezoom,commercial,7.8
+23/11/2022,907.34,Mumbai,768,6,0.89,161.3,7.19,973.88,267.79,biomass,Miboo,transportation,75.8
+06/12/2023,110.67,Bangalore,769,3,0.2,182.5,9.65,897.25,870.61,natural gas,Yadel,industrial,87.7
+02/04/2023,118.67,Kolkata,770,7,0.98,228.6,8.24,582.28,936.65,biomass,Ooba,transportation,48.2
+19/03/2023,191.17,Delhi,771,9,0.8,119.6,3.5,323.75,403.98,solar panels,Skyble,residential,0.7
+08/04/2025,255.21,Chennai,772,10,0.2,172.9,5.56,459.52,144.5,wind mill,Babblestorm,commercial,50.7
+26/01/2025,3.28,Chennai,773,10,0.09,158.1,1.43,386.85,514.12,natural gas,Muxo,commercial,49.9
+10/05/2023,631.68,Chennai,774,9,0.68,222.7,9.65,49.52,882.47,biomass,Dynabox,governmental,63
+25/01/2023,360.97,Bangalore,775,9,0.3,203.5,4.95,216.76,225.33,natural gas,Ntag,industrial,80.9
+18/11/2024,922.6,Mumbai,776,4,0.67,197.4,0.81,600.88,129.32,wind mill,Cogibox,governmental,66
+19/03/2025,261.54,Chennai,777,3,0.41,164.4,0.02,555.47,792.19,biomass,Youspan,residential,96.9
+08/04/2023,390.04,Kolkata,778,6,0.46,182.2,9.45,155.45,301.72,wind mill,Photofeed,governmental,20.7
+26/09/2024,736.02,Delhi,779,3,0.93,231.8,5.22,68.42,729.7,nuclear,Jetwire,commercial,0.2
+01/12/2022,626.82,Chennai,780,6,0.72,183.4,5.45,327,349.77,wind mill,Browsetype,industrial,7.3
+06/04/2023,679.71,Kolkata,781,3,0.81,233.2,9.84,62,429.07,solar panels,Meevee,industrial,16.5
+14/02/2023,550.16,Kolkata,782,7,0.12,102.5,1.33,291.47,154.32,nuclear,Dabshots,industrial,24.3
+30/01/2024,640.86,Delhi,783,3,0.92,102.8,8.5,773.95,470.87,solar panels,Realblab,governmental,34.5
+25/03/2024,837.25,Kolkata,784,10,0.2,160.6,8.49,601.38,432.41,wind mill,Wikizz,residential,50.2
+27/01/2024,11.62,Bangalore,785,7,0.5,107.5,1.79,616.53,146.39,solar panels,Reallinks,industrial,73.9
+28/02/2024,150.47,Mumbai,786,3,0.21,174.5,4.01,698.12,675.78,biomass,Yambee,commercial,6.2
+15/08/2024,575.68,Kolkata,787,9,0.78,119.3,6.27,222.18,410.9,biomass,Brightdog,industrial,13.6
+01/11/2023,273.14,Mumbai,788,9,0.96,218.7,0.62,124.2,271.06,solar panels,Shuffletag,commercial,74.8
+23/08/2023,183.92,Bangalore,789,2,0.96,173.8,3.98,437.46,487.34,wind mill,Tazz,transportation,95.9
+12/10/2024,178.7,Delhi,790,5,0.1,167.2,9.15,360.46,591.6,biomass,Trilith,governmental,36.8
+16/11/2024,757.83,Delhi,791,7,0.24,187.9,3.52,745.57,983.93,biomass,Flashdog,industrial,34.1
+29/08/2023,77.36,Bangalore,792,10,0.39,116.9,1.55,260.34,478.64,wind mill,Thoughtworks,commercial,19.9
+10/01/2023,812.27,Kolkata,793,3,0.57,235.1,2.61,728.23,571.2,biomass,Quimba,governmental,33
+05/07/2023,281.95,Delhi,794,3,0.17,101.5,1.52,953.36,192.73,biomass,Meembee,residential,84.1
+27/01/2023,902.73,Mumbai,795,3,0.03,169.8,6.34,184.64,6.96,natural gas,Edgeblab,residential,5.4
+20/01/2025,702.6,Mumbai,796,3,0.42,110.4,4.75,575.69,33.82,nuclear,Gigashots,governmental,97.4
+28/05/2024,140.3,Kolkata,797,3,0.4,222.7,7.02,759.03,637.82,biomass,Zava,commercial,20.4
+13/03/2025,788.29,Chennai,798,3,0.16,127.1,1.99,873.11,353.99,nuclear,Meemm,commercial,20.9
+17/03/2024,114.57,Bangalore,799,2,0.96,177.8,6.19,798.9,665.48,wind mill,Babbleblab,industrial,20.1
+05/10/2024,997.27,Mumbai,800,7,0.87,206.5,5.39,930.76,819.41,nuclear,Shuffletag,governmental,40.9
+17/12/2022,489.39,Delhi,801,5,0.22,121.4,4.5,429.5,719.3,natural gas,Eazzy,industrial,11.8
+17/11/2022,979.89,Delhi,802,6,0.57,120.7,6.69,123.47,550.56,solar panels,Yodel,residential,41.8
+03/01/2024,541.36,Mumbai,803,2,0.95,208.6,5.26,600.8,742.78,nuclear,Bluezoom,industrial,89.3
+06/06/2024,458.8,Bangalore,804,10,0.1,137.8,0.79,864.75,793.99,biomass,Youspan,residential,37
+14/04/2024,323.68,Mumbai,805,3,0.76,146.1,5.48,39.31,355.01,nuclear,Mydo,governmental,56.4
+06/12/2024,535.1,Chennai,806,3,0.09,177.9,2.83,540.15,93.43,biomass,Cogilith,governmental,52.3
+20/01/2023,909.64,Bangalore,807,5,0.24,156.1,4.85,351.41,727.22,biomass,Edgeify,industrial,49.4
+23/08/2024,220.08,Mumbai,808,8,0.42,103.6,8.36,314.28,163.68,solar panels,Feedspan,commercial,74.7
+01/02/2023,824.92,Delhi,809,10,0.6,116.9,0.73,912.61,556.53,biomass,Rhynoodle,residential,9.3
+30/07/2023,906.61,Mumbai,810,3,0.48,201,5.58,105.36,977.13,natural gas,Rooxo,industrial,95.3
+12/11/2024,198.9,Chennai,811,4,0.09,131.7,6.5,739.08,478.78,wind mill,Devcast,residential,82.3
+27/12/2022,712.18,Chennai,812,3,0.68,110.2,9.76,225.93,91.01,solar panels,Devcast,residential,15
+25/01/2025,89.94,Mumbai,813,1,0.49,114.6,7.77,550.93,213.92,nuclear,Gabcube,commercial,3.8
+18/11/2024,945.47,Bangalore,814,4,0.91,168.4,9.51,447.6,821.16,wind mill,Thoughtbridge,commercial,3.2
+18/11/2024,682.34,Mumbai,815,2,0.12,174.8,8.83,326.28,606.72,natural gas,Blogpad,transportation,52.8
+10/10/2024,726.54,Chennai,816,3,0.17,202,6.89,935.23,28.16,nuclear,Reallinks,transportation,17.6
+13/01/2025,126.21,Kolkata,817,8,0.43,239.5,1.89,363.13,73.13,solar panels,Agivu,governmental,35.3
+03/07/2024,90.64,Chennai,818,8,0.15,116.3,7.54,577.79,375.14,nuclear,Omba,transportation,71.2
+25/03/2024,194.05,Bangalore,819,8,0.28,179.1,1.11,71.31,699.93,wind mill,Devcast,transportation,17
+12/02/2023,833.76,Mumbai,820,9,0.13,145.6,0.62,900.5,408.77,solar panels,Voomm,commercial,45.8
+15/08/2024,189.63,Chennai,821,9,0.16,176.1,2.48,748.13,199.49,natural gas,Brainbox,transportation,63.2
+29/04/2024,131.93,Mumbai,822,1,0.61,209.9,2.64,939.5,494.85,wind mill,Skippad,residential,39.1
+20/10/2024,584.98,Delhi,823,1,0.75,113.1,1.86,263.56,489.52,solar panels,Realfire,residential,57.7
+19/10/2024,746.62,Chennai,824,3,0.59,153.3,5.72,634.95,569.95,solar panels,Linkbridge,governmental,24.1
+22/12/2024,549.46,Kolkata,825,1,0.59,206.5,6.89,96.43,11.16,wind mill,Youopia,industrial,29.6
+27/02/2025,603.33,Kolkata,826,1,0.75,208,1.72,646.84,185.13,wind mill,Plajo,governmental,21.3
+17/03/2023,769.99,Delhi,827,3,0.89,168.7,2.37,245.95,623.91,wind mill,Thoughtblab,commercial,18.4
+31/01/2024,806.24,Mumbai,828,1,0.79,210.3,5.26,292.09,396.57,wind mill,Aimbo,transportation,34.7
+06/08/2023,626.94,Bangalore,829,6,0.76,142.9,9.99,404.38,919.04,nuclear,Babbleopia,commercial,26.9
+12/06/2024,198.99,Chennai,830,2,0.6,208.6,5.98,159.75,950.23,biomass,Jaxbean,industrial,32
+17/02/2025,246.93,Kolkata,831,2,0.02,196.9,3.47,408.07,338.08,wind mill,Youspan,transportation,70.8
+26/02/2023,960.64,Chennai,832,1,0.2,176.6,0.23,340.15,688.38,nuclear,Janyx,transportation,34.1
+19/05/2024,682.89,Delhi,833,6,0.08,207,1.67,486.89,260.36,biomass,Zoozzy,residential,88.2
+30/04/2023,521,Mumbai,834,6,0.73,131.8,4.27,770,821.37,natural gas,Skilith,commercial,44.6
+28/06/2024,315.84,Bangalore,835,3,0.13,131.8,8.48,989.61,592.84,natural gas,Katz,commercial,45.3
+06/09/2024,6.95,Kolkata,836,8,0.67,204.5,1.5,76.93,113.85,nuclear,Topicblab,governmental,96.4
+11/09/2023,447.18,Bangalore,837,9,0.14,150.5,1.87,129.15,904.81,biomass,Livepath,residential,96.6
+01/03/2023,893.24,Chennai,838,9,0.91,133.8,6.73,238.79,703.48,solar panels,Wikibox,transportation,9.5
+18/01/2024,451.21,Kolkata,839,10,0.53,124.4,6.86,258.37,6.17,biomass,Yodoo,commercial,85.1
+13/11/2024,297.07,Chennai,840,5,0.14,110.9,1.06,367.75,117.56,natural gas,Realbuzz,industrial,30.1
+28/01/2025,804.73,Delhi,841,10,0.64,174.4,5.97,848.48,660.38,natural gas,Skippad,transportation,12.1
+04/05/2024,775.14,Mumbai,842,2,0.83,121.1,4.54,89.02,214.76,biomass,Skynoodle,governmental,33
+02/05/2024,338.96,Mumbai,843,1,0.83,235.3,4.83,471.77,352.25,natural gas,Katz,residential,83.8
+11/04/2024,532.44,Kolkata,844,4,0.55,158.5,3,742.25,868.85,wind mill,Babbleopia,governmental,66.2
+04/01/2023,557.9,Chennai,845,10,0.99,186.1,6.03,354.66,263.44,biomass,Abatz,industrial,10.3
+20/04/2024,70.26,Kolkata,846,4,0.22,227.9,9.43,791.61,795.19,biomass,Thoughtblab,commercial,22.3
+08/06/2024,742.58,Chennai,847,6,0.16,125.3,0.35,802.67,607.86,nuclear,Gigaclub,governmental,85.7
+25/06/2024,123.23,Kolkata,848,1,0.74,107.2,0.34,345.47,485.86,natural gas,Topdrive,transportation,89.1
+07/08/2024,15.91,Delhi,849,8,0.21,130.6,9.73,647.65,883.8,nuclear,Blognation,transportation,29.4
+14/07/2023,808.37,Mumbai,850,9,0.6,138.5,3.51,285.23,129.75,wind mill,Yodoo,residential,32.5
+28/10/2023,10.02,Kolkata,851,1,0.62,215.8,5.56,877.8,138.56,biomass,Twitterworks,commercial,61
+07/11/2023,607.3,Chennai,852,3,0.33,205.6,1.76,264.64,328.31,natural gas,Digitube,industrial,20.8
+03/01/2025,661.6,Chennai,853,6,0.56,131.5,0.38,912.16,480.62,solar panels,Gabcube,commercial,50
+24/10/2023,429.98,Mumbai,854,4,0,206.3,6.7,280.12,331.61,nuclear,Myworks,transportation,28.8
+14/10/2023,984.59,Chennai,855,7,0.75,130.8,6.71,523.1,53.58,biomass,Layo,residential,63.4
+29/09/2023,143.21,Mumbai,856,3,0.87,230,0.04,830.84,968.81,nuclear,Realfire,governmental,18
+18/02/2025,937.65,Delhi,857,8,0.87,164.2,3.16,924.07,904.85,solar panels,Skipstorm,industrial,78.7
+17/08/2024,924.1,Chennai,858,5,0.84,206.3,7.76,664.83,467.61,solar panels,Yata,commercial,85.1
+03/09/2024,719.91,Kolkata,859,1,0.84,216.8,2.69,121.77,870.55,natural gas,Quimba,industrial,7.9
+22/10/2023,350.59,Chennai,860,9,0.64,135.1,2.81,178.91,395.79,solar panels,Yotz,commercial,44.3
+25/08/2023,631.93,Delhi,861,8,0.65,195.6,6.56,521.24,385.83,nuclear,Yacero,industrial,39.4
+15/04/2024,913.81,Chennai,862,8,0.05,225,6.02,28.32,474.67,wind mill,Yakijo,transportation,62.8
+11/03/2024,21.77,Delhi,863,9,0.19,167.8,8.88,82.35,800.18,natural gas,Oyoloo,residential,46.7
+11/01/2024,30.97,Chennai,864,1,0.36,107.7,2.53,320.34,676.38,biomass,Skyba,residential,91.1
+31/03/2023,260.21,Kolkata,865,1,0.1,136.8,2.07,658.24,872.79,nuclear,Quinu,governmental,63.4
+04/07/2023,373.66,Kolkata,866,10,0.73,147.5,7.09,284.64,681.12,nuclear,Quire,residential,90.4
+11/03/2024,771.05,Chennai,867,7,0.99,205.4,9.41,420.5,813.58,biomass,Buzzdog,residential,10.5
+21/12/2022,17.51,Bangalore,868,2,0.64,104.3,0.14,379.38,178.95,natural gas,Flashset,transportation,9.8
+26/12/2023,691.25,Bangalore,869,5,0.09,230.5,2.44,925.21,20.9,biomass,Zoombeat,transportation,93.5
+21/10/2024,838.43,Delhi,870,2,0.28,188.3,0.54,143.39,619.47,solar panels,Eabox,governmental,97.6
+08/11/2023,466.73,Chennai,871,4,0.69,189.8,8.92,183.42,43.27,natural gas,Thoughtbeat,governmental,31.9
+18/03/2023,258.7,Kolkata,872,5,0.1,157.7,2.01,200.8,876.64,biomass,Avavee,industrial,4.1
+27/01/2025,852.35,Kolkata,873,9,0.27,113.9,7.11,661.5,37.39,wind mill,Jaxspan,commercial,66.9
+13/02/2024,206.02,Bangalore,874,4,1,140,5.72,788.47,145.56,biomass,LiveZ,commercial,50.6
+07/12/2022,666.34,Kolkata,875,1,0.42,182.4,5.1,562.2,867.28,natural gas,Abatz,industrial,8.1
+26/03/2025,909.84,Mumbai,876,3,0.27,125.1,3.34,902.61,341.4,natural gas,Feedspan,transportation,49.6
+06/09/2023,78.85,Mumbai,877,8,0.28,199.9,8.54,799.49,542.97,nuclear,Quatz,industrial,81.8
+03/01/2023,340.02,Kolkata,878,8,0.97,154.2,2.92,27.83,613.12,solar panels,Livetube,governmental,74
+01/01/2025,74.44,Chennai,879,4,0.71,161.3,1.35,544.11,599.23,biomass,Jabbercube,transportation,92.3
+27/10/2024,458.25,Delhi,880,10,0.75,216.5,1.22,144.91,879.57,nuclear,Browseblab,governmental,59.1
+14/09/2024,910.39,Delhi,881,3,0.24,177.2,3.58,425.77,158.57,biomass,Shuffledrive,residential,75.3
+29/04/2023,610.86,Delhi,882,5,0.87,146.1,9.06,857.52,393.07,biomass,Bubblebox,commercial,66.5
+31/03/2023,277.57,Delhi,883,4,0.99,228.8,9.1,116.02,546.46,biomass,Avamba,residential,62.4
+27/02/2025,299.34,Kolkata,884,9,0.12,174.2,0.39,397.42,903.12,natural gas,Dynabox,governmental,0.4
+27/12/2022,873.26,Kolkata,885,6,0.07,144.8,8.42,43.36,869.34,wind mill,Feedspan,industrial,27.1
+20/03/2023,826.32,Mumbai,886,7,0.59,180.2,6.82,546.73,995.47,nuclear,Photolist,commercial,84.1
+18/11/2024,530.31,Kolkata,887,7,0.13,108,5.33,787.63,631.31,natural gas,LiveZ,commercial,54.9
+17/03/2023,893.86,Delhi,888,5,0.82,115.3,7.19,590.7,867.68,biomass,Zoombeat,commercial,44.1
+21/07/2023,530.14,Chennai,889,3,0.03,212.2,1.03,940.05,821.73,nuclear,Dabjam,commercial,32.2
+16/04/2024,221.1,Chennai,890,4,0.26,132.7,2.79,644.65,466.73,biomass,Gevee,residential,35.6
+04/02/2025,652.25,Kolkata,891,6,0.95,108.9,9.6,553.25,970.92,biomass,Ntag,industrial,63.1
+05/02/2024,614.95,Delhi,892,5,0.59,219.4,3.67,715.86,394.46,wind mill,Divanoodle,governmental,74.3
+13/12/2024,368.2,Chennai,893,5,0.83,200.2,0.77,167.08,98.86,wind mill,Talane,residential,82.6
+17/06/2024,966.15,Kolkata,894,9,0.97,193.8,6.14,421.45,366.04,natural gas,Shufflebeat,residential,50.4
+18/06/2023,356.84,Bangalore,895,5,0.63,114.6,4.21,640.48,169.3,biomass,Lajo,residential,74.9
+08/08/2023,783.42,Chennai,896,10,0.88,190.9,8.85,998.98,190.63,natural gas,Jabbersphere,industrial,5.3
+13/01/2024,486.55,Chennai,897,4,0.09,107.4,6.81,916.89,332.29,nuclear,Realcube,residential,58.3
+15/06/2023,543.93,Delhi,898,10,0.68,101.4,6.4,980.85,754.28,solar panels,Voonte,residential,24
+01/06/2024,452.74,Mumbai,899,6,0.12,230.1,7.8,896.89,453.95,nuclear,Browsebug,governmental,99.6
+25/10/2024,700.45,Mumbai,900,9,0.6,227.6,4.46,48.37,202.77,natural gas,Feedspan,industrial,4.2
+13/10/2023,407.35,Delhi,901,1,1,110.2,2.91,873.21,904.11,natural gas,Buzzster,governmental,10.1
+18/07/2023,822.86,Kolkata,902,3,0.36,232.5,1.92,393.32,262.58,wind mill,Skivee,transportation,37.3
+27/09/2024,26.23,Delhi,903,4,0.58,210.7,3.25,907.85,888.1,wind mill,Shuffledrive,industrial,33.9
+13/12/2022,75.28,Mumbai,904,8,0.58,153.7,5.56,759.76,235.71,nuclear,Innojam,residential,80.2
+24/01/2024,270.84,Delhi,905,10,0.72,128.8,8.79,329.2,671.94,wind mill,Brainbox,governmental,41.6
+14/12/2024,422.25,Kolkata,906,7,0.87,126.4,6.99,855.62,280.62,natural gas,Twitterbridge,governmental,25
+20/08/2023,570.96,Delhi,907,1,0.29,153.4,0.83,175.54,884,biomass,Quinu,transportation,71
+08/11/2023,132.03,Delhi,908,4,0.6,191.3,2.31,824.49,851.83,nuclear,Wikivu,industrial,59.4
+16/11/2022,805.62,Kolkata,909,9,0.35,214.5,6.43,294.66,983.82,biomass,Dynabox,industrial,0.5
+04/01/2025,386.66,Chennai,910,5,0.05,120.6,6.13,983.74,335.27,natural gas,Babblestorm,industrial,73.9
+05/07/2024,365.91,Bangalore,911,4,0.78,235.6,1.68,869.33,794.49,natural gas,Edgeclub,governmental,75.4
+31/12/2023,456.31,Bangalore,912,10,0.24,157.9,5.77,480.81,516.93,biomass,Thoughtbridge,commercial,69.8
+07/07/2024,12.11,Mumbai,913,3,0.48,137,1.69,825.24,269.19,wind mill,Miboo,commercial,77.5
+27/04/2024,201.85,Mumbai,914,9,0.66,215.1,6.97,830.07,276.92,wind mill,Gabtype,transportation,36.6
+16/11/2024,239.36,Mumbai,915,8,0.48,165.3,0.25,719.48,414.53,natural gas,BlogXS,commercial,14.7
+08/09/2023,901.55,Chennai,916,5,0.79,209,7.2,559.34,713.94,natural gas,Dablist,commercial,58.2
+20/03/2025,509.49,Bangalore,917,6,0.27,176.1,3.95,775.66,197.39,biomass,Twinte,residential,40.8
+03/09/2023,330.96,Chennai,918,10,0.8,107.4,9.85,486.54,20.19,biomass,Twitternation,governmental,19.9
+29/06/2023,940.26,Bangalore,919,8,1,160.7,2.28,690.22,716.46,nuclear,Cogidoo,commercial,14.3
+13/03/2025,683.09,Chennai,920,5,0.99,114.8,9.66,334.88,545.23,solar panels,Livefish,commercial,45.8
+21/11/2023,588.15,Bangalore,921,9,0.33,187.8,5.87,869.94,567.91,solar panels,Mynte,commercial,78.9
+03/04/2025,687.69,Chennai,922,7,0.35,134.2,7.67,280.43,687.58,solar panels,Quaxo,commercial,68.1
+14/03/2024,458.23,Bangalore,923,9,0.62,197.6,5.83,156.25,613.44,biomass,Skynoodle,transportation,79.3
+04/12/2022,264.47,Mumbai,924,4,0.02,208.4,3.68,225.87,784.62,solar panels,Jabbersphere,commercial,36.7
+17/07/2023,798.97,Kolkata,925,6,0.48,103.9,0.49,193.84,146.35,solar panels,Tavu,residential,29.1
+14/03/2025,556.31,Bangalore,926,3,0.17,104.7,6.26,171.25,323.12,biomass,Roombo,residential,2.9
+21/11/2022,824.64,Chennai,927,6,0.56,110.8,5.16,983.68,725.82,natural gas,Kwinu,governmental,33.1
+25/03/2025,891.25,Chennai,928,7,0.34,156.7,0.75,875.03,165.03,natural gas,Centizu,governmental,13.6
+02/02/2025,902.8,Bangalore,929,4,0.89,132.5,9.2,544.82,774.67,solar panels,Rhyzio,commercial,25.4
+09/11/2024,51.45,Chennai,930,9,0.02,174,8.1,828.83,369.06,solar panels,Gigashots,industrial,73
+03/09/2024,45.13,Kolkata,931,3,0.57,181.3,3.97,381.27,900.45,solar panels,Fivechat,industrial,41.6
+05/12/2023,170.64,Bangalore,932,4,0.44,168.5,6.66,162.24,220.96,biomass,Geba,industrial,24.6
+14/01/2023,759.91,Kolkata,933,3,0.86,146.6,7.42,290.42,548.6,biomass,Avavee,residential,86
+19/06/2024,546.42,Mumbai,934,5,0.54,218.9,0.3,938.65,634.9,nuclear,Vimbo,industrial,89.3
+28/02/2024,970.46,Bangalore,935,4,0.02,117.8,7.34,440.69,35.75,natural gas,Twitterwire,transportation,50.6
+17/09/2024,447.16,Mumbai,936,4,0.59,176.4,3.05,949.17,606.5,biomass,Livetube,commercial,82.7
+06/10/2023,616.79,Bangalore,937,7,0.41,219.8,1.01,166.82,134.41,natural gas,Tagtune,residential,8
+13/06/2023,854.36,Chennai,938,3,0.15,146.8,8.48,867.61,887.12,solar panels,Rhybox,transportation,33.9
+12/07/2024,405.18,Mumbai,939,6,0.49,195.7,7.23,688.35,532.4,biomass,Yodel,commercial,79.5
+28/06/2024,787.04,Bangalore,940,3,0.05,174.7,3.54,690.83,501.13,natural gas,Wikido,residential,63.5
+18/11/2024,904.61,Chennai,941,8,0.34,137.2,9.29,545.98,902.46,wind mill,Trudeo,transportation,33.8
+16/06/2023,832.09,Delhi,942,1,0.97,137.6,0.36,733.01,267.26,solar panels,Jaxnation,industrial,87.7
+06/03/2025,957.05,Kolkata,943,3,0.1,219.8,1.67,563.55,729.34,wind mill,Tanoodle,residential,8.2
+01/05/2023,211.26,Mumbai,944,4,0.52,106,5.14,273.13,483.79,biomass,Linktype,commercial,69.8
+31/08/2024,17.42,Bangalore,945,1,0.65,196.3,7.09,982.01,354.52,nuclear,Aibox,industrial,54.7
+12/08/2023,662.01,Mumbai,946,2,0.83,133.1,9.72,717.66,449.12,natural gas,Gabtype,industrial,96.7
+09/07/2024,630.22,Bangalore,947,9,0.94,125.8,4.55,927.96,788.27,solar panels,Topicblab,transportation,82.6
+03/02/2024,846.07,Bangalore,948,4,0.86,230.7,0.87,645.89,702.07,wind mill,Katz,governmental,74.7
+30/10/2024,288.73,Bangalore,949,5,0.3,154.3,5.87,391.94,77.59,natural gas,Trunyx,transportation,22.5
+19/05/2024,612.83,Mumbai,950,10,0.91,168.5,5.95,822.68,360.32,natural gas,Mymm,commercial,17.5
+15/03/2023,624.3,Bangalore,951,10,0.61,216.6,1.31,592.86,225,biomass,Dablist,commercial,28.7
+12/07/2024,661.47,Mumbai,952,5,0.23,223.9,6.55,437.29,231.61,natural gas,Livetube,residential,53.3
+07/12/2023,718.45,Bangalore,953,4,0.91,106,9.66,817.18,563.6,wind mill,Eazzy,residential,21.6
+26/02/2025,862.16,Bangalore,954,8,0.73,120.1,4.12,572.62,967.95,solar panels,Shuffledrive,residential,91
+11/03/2023,185.53,Delhi,955,9,0.93,163.6,5.84,997.97,467.33,biomass,Livepath,commercial,36.1
+19/02/2023,259.39,Chennai,956,9,0.17,213.4,9.37,59.64,638.44,biomass,Voonix,commercial,93.8
+16/11/2022,767.12,Chennai,957,10,0.12,147.8,5.96,55.66,230.77,biomass,Realbridge,residential,40.8
+07/08/2024,952.66,Chennai,958,2,0.49,171.8,8.41,828.73,676.5,natural gas,Tambee,industrial,10.6
+07/04/2025,328.79,Kolkata,959,7,0.95,147.9,9.6,852.54,345.38,wind mill,Dablist,industrial,33.7
+10/03/2024,144.59,Bangalore,960,1,0.11,160.9,5.21,945.46,806.84,solar panels,Tambee,industrial,90.4
+12/12/2024,425.95,Delhi,961,6,0.06,186.3,2.87,667.6,719.87,biomass,Yata,industrial,24.5
+14/09/2023,940.79,Kolkata,962,10,0.91,237.6,5.34,82.21,665.94,natural gas,Centimia,commercial,65.5
+18/12/2022,230.54,Chennai,963,10,0.33,207,8.47,349.03,728.47,biomass,Tazzy,governmental,25.6
+17/05/2024,604.67,Chennai,964,8,0.6,172.1,2.66,890.48,686.01,biomass,Ozu,governmental,68.6
+10/08/2023,936.12,Bangalore,965,7,0.2,143.7,9.45,295.45,686.1,wind mill,Twitterwire,transportation,33.1
+16/03/2025,908.57,Delhi,966,3,0.24,230.3,7.22,548.76,620.27,wind mill,Tagtune,industrial,20.5
+28/02/2023,727.76,Delhi,967,3,0.81,140,0.77,786,977.44,wind mill,Kare,residential,41
+22/07/2023,540.41,Delhi,968,2,0.42,166,3.05,486.75,396.61,solar panels,Mybuzz,industrial,55.3
+17/08/2024,84.36,Delhi,969,9,0.13,201.3,8.74,602.74,92.39,solar panels,Photobug,governmental,15
+06/02/2024,410.81,Kolkata,970,7,0.57,169.7,6.51,745.27,191.61,solar panels,Realbuzz,governmental,20
+24/04/2025,710.2,Kolkata,971,2,0.46,152.6,7.17,934.64,675.45,solar panels,Youspan,commercial,29.5
+02/01/2023,622.1,Bangalore,972,6,0.58,213.2,4.59,786.21,936.94,wind mill,Skimia,industrial,47.2
+10/08/2023,974.6,Chennai,973,8,0.82,232.2,9.62,679.77,467.53,natural gas,Yakijo,commercial,63.8
+05/07/2024,402.03,Chennai,974,5,0.57,113.3,0.44,509.11,27.8,solar panels,Babbleblab,transportation,95.2
+04/02/2024,547.76,Delhi,975,7,0.92,187,7.57,13.92,652.48,solar panels,Photofeed,commercial,22.6
+23/10/2023,396.65,Bangalore,976,3,0.39,147.3,5.34,412.09,367.61,nuclear,Twitterwire,residential,62.4
+21/04/2023,55.08,Mumbai,977,9,0.57,182.8,1.31,106.34,162.35,wind mill,Quimba,residential,97.8
+01/03/2025,820.96,Delhi,978,1,0.27,189.1,3.44,516.65,248.67,biomass,Riffpath,governmental,19.8
+17/09/2023,418.95,Mumbai,979,4,0.55,153.9,0.59,295.46,772.9,solar panels,Ntags,commercial,82.7
+11/12/2024,700.13,Kolkata,980,10,0.58,185.2,9.59,580.08,952.69,biomass,Roombo,industrial,54
+16/12/2023,944.97,Bangalore,981,7,0.3,136.3,7.79,702.93,504.62,solar panels,Avavee,transportation,55.9
+04/02/2023,681.72,Bangalore,982,10,0.58,102.9,6.67,7.36,17.81,wind mill,Layo,transportation,59.6
+29/11/2024,485.06,Chennai,983,4,0.8,162.8,8.63,935.44,541.47,nuclear,Livepath,commercial,2.2
+11/03/2024,378.51,Delhi,984,8,0.36,216.1,9.2,779.65,267.05,wind mill,Jaxbean,commercial,34.9
+24/12/2022,116.55,Kolkata,985,6,0.8,170.5,4.41,504.93,557.74,wind mill,Kayveo,residential,35.5
+11/06/2024,152.75,Delhi,986,8,0.67,216.8,4.13,877.49,939.81,solar panels,Fivespan,transportation,4.2
+19/10/2023,805.18,Mumbai,987,5,0.5,165.2,5.72,128.42,174.1,wind mill,Fiveclub,commercial,90.8
+15/09/2024,11.05,Mumbai,988,9,0.06,180,8.54,209.24,192.77,biomass,Cogibox,governmental,23.2
+11/05/2024,593.64,Delhi,989,6,0.89,171.9,6.68,812.02,344.19,solar panels,Fivechat,commercial,89.5
+19/05/2023,735.49,Kolkata,990,3,0.06,199.6,5.45,178.28,49.15,biomass,Flashspan,industrial,14.6
+29/03/2025,862.91,Kolkata,991,7,0.13,178.4,0.37,665.13,502.01,natural gas,Blogtag,transportation,34.9
+11/09/2023,601.37,Kolkata,992,2,0.15,113.7,6.62,599.86,705.59,natural gas,Trupe,residential,98.8
+14/12/2024,110.57,Bangalore,993,9,0.68,124.1,8.58,311.38,264.49,wind mill,Ntag,governmental,9.7
+03/02/2025,597.31,Chennai,994,2,0.23,201.5,6.56,566.01,820.63,biomass,Yabox,transportation,63.7
+03/10/2024,124.3,Chennai,995,6,0.95,225.9,0.44,842.3,609.97,biomass,Fatz,commercial,56.1
+26/01/2024,131.06,Kolkata,996,1,0.69,196.9,6.14,129.25,620.62,wind mill,Jaxspan,transportation,14.6
+30/03/2023,490.8,Kolkata,997,10,0.09,176.4,9.96,450.49,853.51,biomass,Plajo,commercial,47.5
+18/11/2023,489.31,Bangalore,998,3,0.5,194.6,1.67,275.64,177.48,biomass,JumpXS,transportation,73.2
+11/05/2024,228.11,Mumbai,999,8,0.76,145,9.74,400.36,950.79,solar panels,Feedfire,governmental,63.2
+04/04/2023,496.64,Mumbai,1000,5,0.82,104.9,9.69,543.94,383.73,solar panels,Devpoint,governmental,88.1
